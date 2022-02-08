@@ -1,5 +1,5 @@
 # OPEN-SOURCE-TECH-LAB
- OSTL [SEMESTER IV]
+ CSL405: OSTL [SEMESTER IV]
  
   ---
  
@@ -16,11 +16,14 @@
  - OSTL [Experiments](https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB/blob/main/PRACTICAL%20LAB.pdf)
 
 ## Open Source Tech Lab Project
- >**COVID19 India Data Scraping and Visualisation using Matplotlib and BeautifulSoup in Python3.**
  
- >**I used PrettyTable and BS4 to scrape/scale the data and visualize it using Bar Plots and Donut Charts.**
+ >**[COVID19 WEB SCRAPER](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER) - PROJECT REPOSITORY**
  
- >**Data sourced from [Ministry Of Health and Family Welfare, India](https://www.mohfw.gov.in).**
+ - **COVID19 India Data Scraping and Visualisation using Matplotlib and BeautifulSoup in Python3.**
+ 
+ - **I used PrettyTable and BS4 to scrape/scale the data and visualize it using Bar Plots and Donut Charts.**
+ 
+ - **Data sourced from [Ministry Of Health and Family Welfare, India](https://www.mohfw.gov.in).**
 
  - **[Python](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER/blob/main/Covid19_Web_Scraper.py)**
  - **[Google Colaboratory](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER/blob/main/Covid19_Web_Scraper.ipynb)**
