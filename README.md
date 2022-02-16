@@ -24,7 +24,7 @@
  
  - **Data sourced from [Ministry Of Health and Family Welfare, India](https://www.mohfw.gov.in).**
 
- >**Source Code**
+ >**SOURCE CODE**
  
  - **[Python](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER/blob/main/Covid19_Web_Scraper.py)**
  
