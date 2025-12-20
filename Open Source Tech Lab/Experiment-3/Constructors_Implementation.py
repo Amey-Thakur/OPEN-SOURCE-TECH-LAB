@@ -83,12 +83,12 @@ print(f"Details s2 (Updated): {s2.getval()}")
 # 3. Another Object creation demonstrating flexibility
 print("\n--- 3. Multiple Instances ---")
 s3 = Student()
-s3.setval('17CO35', 'SS', 'M', 9898)
+s3.setval('51', 'Hasan', 'Mumbai', 9898989898)
 print(f"Details s3: {s3.getval()}")
 print(f"Memory Address s3: {id(s3)}")
 
 s4 = Student()
-s4.setval('17CO35', 'SS', 'M', 9898) # Same data as s3
+s4.setval('57', 'Filly', 'Mumbai', 9898989898) # Same data as s3
 print(f"Details s4: {s4.getval()}")
 print(f"Memory Address s4: {id(s4)}")
 
