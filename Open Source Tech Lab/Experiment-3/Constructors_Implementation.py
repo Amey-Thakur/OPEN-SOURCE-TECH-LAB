@@ -68,7 +68,7 @@ print("\n--- 1. Constructor Usage ---")
 
 # 1. Object creation with arguments provided to Constructor
 # Note: '1' passed as Number, '9822' passed as Number.
-s1 = Student(1, 'Ahmed', 'Mumbai', 9822) 
+s1 = Student(1, 'Mega', 'Mumbai', 9822) 
 print(f"Details s1: {s1.getval()}")
 
 # 2. Object creation with Default Constructor Arguments
