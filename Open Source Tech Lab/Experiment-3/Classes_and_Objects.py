@@ -74,7 +74,7 @@ class Student:
 print("\n--- 1. Creating Student Objects ---")
 
 s1 = Student()
-s1.setval('18CO63', 'TAUSEEF MUSHTAQUE ALI SHAIKH', 'MUMBAI', 9898989898)
+s1.setval('58', 'Mega', 'Mumbai', 9167078027)
 print(f"Student 1 Details: {s1.getval()}")
 print("-" * 30)
 
@@ -83,7 +83,7 @@ s2 = Student()
 # Here we just modify s2's view if we were accessing it via instance, but we set class variable below.
 # Note: In original code s2.no_of_courses = 6 created an instance variable 'no_of_courses' for s2, shadowing the class var.
 s2.no_of_courses = 6 
-s2.setval('18CO55', 'RAUF YOOSAF SHAIKH', 'MUMBAI', 9191919191)
+s2.setval('50', 'Amey', 'Mumbai', 9191919191)
 print(f"Student 2 Details: {s2.getval()}")
 print("-" * 30)
 
