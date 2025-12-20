@@ -7,7 +7,7 @@
 #
 # Authors:     Amey Thakur
 # Repository:  https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB
-# License:     MIT License
+# License:     CC BY 4.0
 # -----------------------------------------------------------------------------
 
 # -----------------------------------------------------------------------------
@@ -19,7 +19,7 @@
 """
 Multi-line comment (Docstring):
 Used to explain code in more detail.
-Created by adding a delimiter (''') or (""") on each end.
+Created by adding a delimiter (''') or ( \"\"\" ) on each end.
 """
 
 print("--- 1. Comments ---")

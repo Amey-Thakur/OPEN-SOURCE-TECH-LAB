@@ -7,7 +7,7 @@
 #
 # Authors:     Amey Thakur
 # Repository:  https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB
-# License:     MIT License
+# License:     CC BY 4.0
 # -----------------------------------------------------------------------------
 
 from array import array
