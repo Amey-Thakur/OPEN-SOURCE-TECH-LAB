@@ -77,7 +77,7 @@ print(f"Details s2 (Default): {s2.getval()}")
 
 # Modifying s2 values using setval
 print("\n--- 2. Updating Object Data ---")
-s2.setval('17CO02', 'Iqra', 'Mumbai', 9898998989)
+s2.setval('50', 'Amey', 'Mumbai', 9898998989)
 print(f"Details s2 (Updated): {s2.getval()}")
 
 # 3. Another Object creation demonstrating flexibility
