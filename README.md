@@ -1,39 +1,39 @@
 # OPEN-SOURCE-TECH-LAB
 
- 👍🏻 CSL405: OPEN SOURCE TECH LAB [SEMESTER IV]
+ 👍🏻 CSL405: Open Source Tech Lab [SEMESTER IV]
  
 ---
  
  - [X] **[Syllabus](https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB/blob/main/SE-Comps_CBCGS_Syllabus.pdf)**
  
- - [X] **OPEN SOURCE TECH LAB (PYTHON) - [Reference Books](https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB/tree/main/Reference%20Books)**
+ - [X] **Open Source Tech Lab (PYTHON) - [Reference Books](https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB/tree/main/Reference%20Books)**
 
 ---
 
 ## Assignments
  
- - OPEN SOURCE TECH LAB [Assignment - 1](https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB/blob/main/Assignments/OSTL_Assignment-1.pdf)
+ - Open Source Tech Lab [Assignment - 1](https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB/blob/main/Assignments/OSTL_Assignment-1.pdf)
  
- - OPEN SOURCE TECH LAB [Assignment - 2](https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB/blob/main/Assignments/OSTL_Assignment-2.pdf)
+ - Open Source Tech Lab [Assignment - 2](https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB/blob/main/Assignments/OSTL_Assignment-2.pdf)
 
 
 ## Open Source Tech Lab
  
- >**OPEN SOURCE TECH LAB [Experiments](https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB/blob/main/OPEN%20SOURCE%20TECH%20LAB/PRACTICAL%20LAB.pdf) - JOURNAL**
+ >**Open Source Tech Lab [Experiments](https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB/blob/main/Open%20Source%20Tech%20Lab/PRACTICAL%20LAB.pdf) - JOURNAL**
 
- - OPEN SOURCE TECH LAB [Experiment - 1](https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB/tree/main/OPEN%20SOURCE%20TECH%20LAB/Experiment-1)
+ - Open Source Tech Lab [Experiment - 1](https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB/tree/main/Open%20Source%20Tech%20Lab/Experiment-1)
  
- - OPEN SOURCE TECH LAB [Experiment - 2](https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB/tree/main/OPEN%20SOURCE%20TECH%20LAB/Experiment-2)
+ - Open Source Tech Lab [Experiment - 2](https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB/tree/main/Open%20Source%20Tech%20Lab/Experiment-2)
  
- - OPEN SOURCE TECH LAB [Experiment - 3](https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB/tree/main/OPEN%20SOURCE%20TECH%20LAB/Experiment-3)
+ - Open Source Tech Lab [Experiment - 3](https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB/tree/main/Open%20Source%20Tech%20Lab/Experiment-3)
  
- - OPEN SOURCE TECH LAB [Experiment - 4](https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB/tree/main/OPEN%20SOURCE%20TECH%20LAB/Experiment-4)
+ - Open Source Tech Lab [Experiment - 4](https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB/tree/main/Open%20Source%20Tech%20Lab/Experiment-4)
  
- - OPEN SOURCE TECH LAB [Experiment - 5](https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB/tree/main/OPEN%20SOURCE%20TECH%20LAB/Experiment-5)
+ - Open Source Tech Lab [Experiment - 5](https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB/tree/main/Open%20Source%20Tech%20Lab/Experiment-5)
  
- - OPEN SOURCE TECH LAB [Experiment - 6](https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB/tree/main/OPEN%20SOURCE%20TECH%20LAB/Experiment-6)
+ - Open Source Tech Lab [Experiment - 6](https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB/tree/main/Open%20Source%20Tech%20Lab/Experiment-6)
  
- - OPEN SOURCE TECH LAB [Experiment - 7](https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB/tree/main/OPEN%20SOURCE%20TECH%20LAB/Experiment-7)
+ - Open Source Tech Lab [Experiment - 7](https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB/tree/main/Open%20Source%20Tech%20Lab/Experiment-7)
 
 
 ## Open Source Tech Lab Project
