@@ -69,17 +69,17 @@ print("-" * 30)
 # -----------------------------------------------------------------------------
 print("\n--- 3. Memory Address Check (Identity) ---")
 
-st1 = "HELLO"
-print(f"Address of st1 ('HELLO'): {id(st1)}")
+st1 = "MEGA"
+print(f"Address of st1 ('MEGA'): {id(st1)}")
 
 print("")
 
-st1 = "WORLD"
-st2 = "WORLD"
+st1 = "AMEY"
+st2 = "AMEY"
 
 # Python optimizes memory by assigning the same address to identical string literals (interning)
-print(f"Address of st1 ('WORLD'): {id(st1)}")
-print(f"Address of st2 ('WORLD'): {id(st2)}")
+print(f"Address of st1 ('AMEY'): {id(st1)}")
+print(f"Address of st2 ('AMEY'): {id(st2)}")
 
 if id(st1) == id(st2):
     print("Result: Both variables point to the same memory location.")
