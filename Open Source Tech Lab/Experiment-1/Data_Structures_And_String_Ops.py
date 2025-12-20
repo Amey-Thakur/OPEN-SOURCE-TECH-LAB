@@ -19,7 +19,7 @@ print("--- 1. ByteArrays ---")
 b = bytearray(3)
 print(f"Byte array initialized (size 3): {b[0]}, {b[1]}, {b[2]}")
 
-c = b'Hello'
+c = b'Mega'
 print(f"Bytes literal: {c}")
 print(f"Type: {type(c)}")
 print("-" * 30)

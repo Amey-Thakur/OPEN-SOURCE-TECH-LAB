@@ -95,7 +95,7 @@ print("-" * 30)
 # -----------------------------------------------------------------------------
 print("\n--- 3. Dictionary Operations ---")
 
-d1 = {'NAME': "CO", 'GENDER': "M", 'age': "19", 'COLLEGE': "AITKTC"}
+d1 = {'NAME': "Mega", 'GENDER': "F", 'RollNo': "58", 'COLLEGE': "Terna Engineering College"}
 print(f"Dictionary:               {d1}")
 
 print(f"Keys:                     {list(d1.keys())}")

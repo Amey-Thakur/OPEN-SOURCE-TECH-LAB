@@ -33,7 +33,7 @@ print("\n--- 2. Illustration of Data Types ---")
 
 i = 10              # Integer
 f = 24.5            # Float
-s = 'Hello user'    # String
+s = 'Hello Mega'    # String
 c = 2 + 3j          # Complex number
 
 print(f"Integer value: {i}")
