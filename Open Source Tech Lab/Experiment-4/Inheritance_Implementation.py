@@ -116,7 +116,7 @@ print("\n--- Inheritance Demonstration ---")
 s = SECO()
 
 # Using Parent Class method to set values
-s.setval('18CO01', 'Mega', 'Mumbai', 9898)
+s.setval('58', 'Mega', 'Mumbai', 9167078027)
 
 # Using Child Class method to set specific properties
 s.setprop('OSTL', 'Python')
