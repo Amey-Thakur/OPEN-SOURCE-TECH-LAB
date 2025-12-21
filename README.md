@@ -127,13 +127,13 @@ The laboratory component focuses on the practical implementation of Python conce
 
 | Experiment | Topic | Core Implementation | View |
 |:---|:---|:---|:-:|
-| **Exp 1** | Python Basics | Datatypes, String Ops, Advanced Data Structures | [📂](Open%20Source%20Tech%20Lab/Experiment-1/) |
-| **Exp 2** | Control Flow | Logic, Loops, and Menu-Driven Functions | [📂](Open%20Source%20Tech%20Lab/Experiment-2/) |
-| **Exp 3** | OOP Basics | Classes, Objects, and Constructors | [📂](Open%20Source%20Tech%20Lab/Experiment-3/) |
-| **Exp 4** | Advanced OOP | Principles of Inheritance | [📂](Open%20Source%20Tech%20Lab/Experiment-4/) |
-| **Exp 5** | Functional Python | File I/O, Lambda, Map, Filter, Reduce | [📂](Open%20Source%20Tech%20Lab/Experiment-5/) |
-| **Exp 6** | GUI Programming | Tkinter Basic, Class-based, and CRUD UI | [📂](Open%20Source%20Tech%20Lab/Experiment-6/) |
-| **Exp 7** | Database Systems | MySQL Connectivity and CRUD Logic | [📂](Open%20Source%20Tech%20Lab/Experiment-7/) |
+| **Experiment 1** | Python Basics | Datatypes, String Ops, Advanced Data Structures | [📂](Open%20Source%20Tech%20Lab/Experiment-1/) |
+| **Experiment 2** | Control Flow | Logic, Loops, and Menu-Driven Functions | [📂](Open%20Source%20Tech%20Lab/Experiment-2/) |
+| **Experiment 3** | OOP Basics | Classes, Objects, and Constructors | [📂](Open%20Source%20Tech%20Lab/Experiment-3/) |
+| **Experiment 4** | Advanced OOP | Principles of Inheritance | [📂](Open%20Source%20Tech%20Lab/Experiment-4/) |
+| **Experiment 5** | Functional Python | File I/O, Lambda, Map, Filter, Reduce | [📂](Open%20Source%20Tech%20Lab/Experiment-5/) |
+| **Experiment 6** | GUI Programming | Tkinter Basic, Class-based, and CRUD UI | [📂](Open%20Source%20Tech%20Lab/Experiment-6/) |
+| **Experiment 7** | Database Systems | MySQL Connectivity and CRUD Logic | [📂](Open%20Source%20Tech%20Lab/Experiment-7/) |
 
 ### Program Details
 
