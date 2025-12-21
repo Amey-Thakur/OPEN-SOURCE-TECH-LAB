@@ -154,14 +154,14 @@
 
 This section documents the structured learning schedule followed during the academic semester to master Python and Open Source technologies.
 
-| Timeline (Dec 2019) | Focus Area | Key Topics Covered |
+| Dates | Focus Area | Key Topics Covered |
 |:---|:---|:---|
-| **Day 1 - 2** (2nd-3rd) | Python Documentation Basics | Control Flow, Functions, Data Structures, Modules, File I/O, Exceptions, OOP (Classes & Inheritance) |
-| **Day 3** (4th) | Data Science Foundational Basics | Pandas and NumPy basics for data manipulation |
-| **Day 4** (5th) | Web & API Basics | JSON data handling and Postman for API testing |
-| **Day 5** (6th) | Network Programming | Reading and writing emails using **SMTP** and **IMAP** protocols |
-| **Day 6 - 7** (9th-10th) | Advanced Automation | Detecting and Replying to Threads using SMTP and IMAP |
-| **Day 8** (11th) | Systems Programming | Multithreading and Multiprocessing basics |
+| **December 2-3, 2019** | Python Documentation Basics | Control Flow, Functions, Data Structures, Modules, File I/O, Exceptions, OOP (Classes & Inheritance) |
+| **December 4, 2019** | Data Science Foundational Basics | Pandas and NumPy basics for data manipulation |
+| **December 5, 2019** | Web & API Basics | JSON data handling and Postman for API testing |
+| **December 6, 2019** | Network Programming | Reading and writing emails using **SMTP** and **IMAP** protocols |
+| **December 9-10, 2019** | Advanced Automation | Detecting and Replying to Threads using SMTP and IMAP |
+| **December 11, 2019** | Systems Programming | Multithreading and Multiprocessing basics |
 
 ---
 
