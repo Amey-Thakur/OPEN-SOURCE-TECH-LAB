@@ -1,33 +1,44 @@
-<!-- HEADER -->
+<!-- =========================================================================================
+                                     HEADER SECTION
+     ========================================================================================= -->
 <div align="center">
 
+  <!-- Title -->
   # Open Source Tech Laboratory
 
+  <!-- Subtitle -->
   ### CSL405 · Semester IV · Computer Engineering
 
+  <!-- Badges -->
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
-  [![Experiments](https://img.shields.io/badge/Experiments-7-green.svg)](#laboratory-experiments)
-  [![Language](https://img.shields.io/badge/Language-Python-orange.svg)](.)
+  [![Programs](https://img.shields.io/badge/Programs-15-yellowgreen.svg)](#laboratory-experiments)
+  [![Language](https://img.shields.io/badge/Language-Python-blueviolet.svg)](./)
+  [![Lab Manual](https://img.shields.io/badge/Lab%20Manual-Available-brightgreen.svg)](PRACTICAL%20LAB.pdf)
 
-  **A dedicated collection of 7 experiments covering the core implementation of Python-based Open Source technologies, including OOP, GUI, and Database systems.**
+  <!-- Short Description -->
+  **A comprehensive collection of 15 programs across 7 experiments covering the core implementation of Python-based Open Source technologies, including OOP, GUI, and Database systems.**
+
+  ---
+
+  <!-- Navigation Links -->
+  **[🐍 Experiment 1](#-experiment-1-python-basics-3-programs)** &nbsp;·&nbsp; **[🛠️ Experiment 2](#-experiment-2-control-flow-3-programs)** &nbsp;·&nbsp; **[🧱 Experiment 3](#-experiment-3-intro-to-oop-2-programs)** &nbsp;·&nbsp; **[🏛️ Experiment 4](#-experiment-4-advanced-oop-1-program)** &nbsp;·&nbsp; **[λ Experiment 5](#-experiment-5-functional-python-2-programs)** &nbsp;·&nbsp; **[🖥️ Experiment 6](#-experiment-6-gui-programming-3-programs)** &nbsp;·&nbsp; **[🗄️ Experiment 7](#-experiment-7-database-connectivity-1-program)** &nbsp;·&nbsp; **[🚀 How to Use](#-how-to-use)** &nbsp;·&nbsp; **[📖 Learning Path](#-learning-path)**
 
 </div>
 
 ---
 
-<div align="center">
+> [!TIP]
+> **Pythonic Thinking**: Always start by understanding the problem, then write clean, readable code with meaningful variable names. Use list comprehensions, generators, and built-in functions to write efficient Python. Practice the DRY (Don't Repeat Yourself) principle and leverage Python's extensive standard library for common tasks.
 
-  [🐍 Python Basics](#experiment-1-python-basics) &nbsp;·&nbsp; [🛠️ Control Flow](#experiment-2-control-flow) &nbsp;·&nbsp; [🧱 Intro to OOP](#experiment-3-intro-to-oop) &nbsp;·&nbsp; [🏛️ Advanced OOP](#experiment-4-advanced-oop) &nbsp;·&nbsp; [λ Functional Python](#experiment-5-functional-python) &nbsp;·&nbsp; [🖥️ GUI Apps](#experiment-6-gui-programming) &nbsp;·&nbsp; [🗄️ Database CRUD](#experiment-7-database-connectivity) &nbsp;·&nbsp; [🚀 How to Use](#-how-to-use) &nbsp;·&nbsp; [📖 Learning Path](#-learning-path)
-
-</div>
+> [!WARNING]
+> **Environment Requirements**: Python 3.x is required for all experiments. For Experiments 6 and 7, ensure **MySQL Server** is installed and configured, along with the **mysql-connector-python** library (`pip install mysql-connector-python`).
 
 ---
 
-<!-- EXPERIMENT LIST -->
-## Laboratory Experiments
-
-### 🐍 Experiment 1: Python Basics
-Implementation of core Python data types and structures.
+<!-- =========================================================================================
+                                     EXPERIMENT 1
+     ========================================================================================= -->
+## 🐍 Experiment 1: Python Basics (3 Programs)
 
 | # | Program | Description |
 |:---|:---|:---|
@@ -37,8 +48,10 @@ Implementation of core Python data types and structures.
 
 ---
 
-### 🛠️ Experiment 2: Control Flow
-Implementation of decision making and iterative logic.
+<!-- =========================================================================================
+                                     EXPERIMENT 2
+     ========================================================================================= -->
+## 🛠️ Experiment 2: Control Flow (3 Programs)
 
 | # | Program | Algorithm | Description |
 |:---|:---|:---|:---|
@@ -48,8 +61,10 @@ Implementation of decision making and iterative logic.
 
 ---
 
-### 🧱 Experiment 3: Intro to OOP
-Foundations of Object-Oriented Programming.
+<!-- =========================================================================================
+                                     EXPERIMENT 3
+     ========================================================================================= -->
+## 🧱 Experiment 3: Intro to OOP (2 Programs)
 
 | # | Program | Core Concept | Description |
 |:---|:---|:---|:---|
@@ -58,8 +73,10 @@ Foundations of Object-Oriented Programming.
 
 ---
 
-### 🏛️ Experiment 4: Advanced OOP
-Extending parent classes and method overriding.
+<!-- =========================================================================================
+                                     EXPERIMENT 4
+     ========================================================================================= -->
+## 🏛️ Experiment 4: Advanced OOP (1 Program)
 
 | # | Program | Core Concept | Description |
 |:---|:---|:---|:---|
@@ -67,18 +84,22 @@ Extending parent classes and method overriding.
 
 ---
 
-### λ Experiment 5: Functional Python
-Advanced functional computations using Higher-order functions.
+<!-- =========================================================================================
+                                     EXPERIMENT 5
+     ========================================================================================= -->
+## λ Experiment 5: Functional Python (2 Programs)
 
 | # | Program | Concepts | Description |
 |:---|:---|:---|:---|
 | 1 | [File_IO_Operations.py](Experiment-5/File_IO_Operations.py) | File Handling | Read, Write, and Append with Error Handling |
-| 2 | [Lambda_Filter_Map_Reduce.py](Experiment-5/Lambda_Filter_Map_Reduce.py) | Higher-order Funct | Advanced functional computations |
+| 2 | [Lambda_Filter_Map_Reduce.py](Experiment-5/Lambda_Filter_Map_Reduce.py) | Higher-order Functions | Advanced functional computations |
 
 ---
 
-### 🖥️ Experiment 6: GUI Programming
-Building desktop applications with Tkinter.
+<!-- =========================================================================================
+                                     EXPERIMENT 6
+     ========================================================================================= -->
+## 🖥️ Experiment 6: GUI Programming (3 Programs)
 
 | # | Program | Complexity | Focus Area |
 |:---|:---|:---|:---|
@@ -88,8 +109,10 @@ Building desktop applications with Tkinter.
 
 ---
 
-### 🗄️ Experiment 7: Database Connectivity
-MySQL Integration with full CRUD functionality.
+<!-- =========================================================================================
+                                     EXPERIMENT 7
+     ========================================================================================= -->
+## 🗄️ Experiment 7: Database Connectivity (1 Program)
 
 | # | Program | Technology | Description |
 |:---|:---|:---|:---|
@@ -97,10 +120,13 @@ MySQL Integration with full CRUD functionality.
 
 ---
 
-<!-- HOW TO USE -->
+<!-- =========================================================================================
+                                     HOW TO USE
+     ========================================================================================= -->
 ## 🚀 How to Use
 
 ### Requirements
+
 - **Python 3.x**
 - **MySQL Server** (for Experiment 6 and 7)
 - **mysql-connector-python** library:
@@ -109,18 +135,21 @@ MySQL Integration with full CRUD functionality.
   ```
 
 ### Running Programs
-1.  **Navigate** to the specific experiment folder.
-2.  **Execute** using the Python interpreter:
-    ```bash
-    python filename.py
-    ```
+
+1. **Navigate** to the specific experiment folder
+2. **Execute** using the Python interpreter:
+   ```bash
+   python filename.py
+   ```
 
 > [!TIP]
 > **Database Setup**: For Experiments 6 and 7, ensure you have a database named `ostldb` and a table `Student` configured with the appropriate schema (RollNo, Name, etc.) on your local MySQL server.
 
 ---
 
-<!-- LEARNING PATH -->
+<!-- =========================================================================================
+                                     LEARNING PATH
+     ========================================================================================= -->
 ## 📖 Learning Path
 
 This section documents the structured learning schedule followed during the academic semester to master Python and Open Source technologies.
@@ -136,7 +165,9 @@ This section documents the structured learning schedule followed during the acad
 
 ---
 
-<!-- LAB MANUAL -->
+<!-- =========================================================================================
+                                     LAB MANUAL
+     ========================================================================================= -->
 ## 📖 Lab Manual
 
 | Resource | Description |
@@ -145,14 +176,19 @@ This section documents the structured learning schedule followed during the acad
 
 ---
 
-<!-- FOOTER -->
+<!-- =========================================================================================
+                                     FOOTER SECTION
+     ========================================================================================= -->
 <div align="center">
 
-  **[⬆ Back to Top](#open-source-tech-laboratory)** &nbsp;·&nbsp; [🐍 Exp 1](#experiment-1-python-basics) &nbsp;·&nbsp; [🛠️ Exp 2](#experiment-2-control-flow) &nbsp;·&nbsp; [🧱 Exp 3](#experiment-3-intro-to-oop) &nbsp;·&nbsp; [🏛️ Exp 4](#experiment-4-advanced-oop) &nbsp;·&nbsp; [λ Exp 5](#experiment-5-functional-python) &nbsp;·&nbsp; [🖥️ Exp 6](#experiment-6-gui-programming) &nbsp;·&nbsp; [🗄️ Exp 7](#experiment-7-database-connectivity) &nbsp;·&nbsp; [🚀 How to Use](#-how-to-use) &nbsp;·&nbsp; [📖 Learning Path](#-learning-path)
+  <!-- Footer Navigation -->
+  **[⬆ Back to Top](#open-source-tech-laboratory)**
+
+  **[🐍 Experiment 1](#-experiment-1-python-basics-3-programs)** &nbsp;·&nbsp; **[🛠️ Experiment 2](#-experiment-2-control-flow-3-programs)** &nbsp;·&nbsp; **[🧱 Experiment 3](#-experiment-3-intro-to-oop-2-programs)** &nbsp;·&nbsp; **[🏛️ Experiment 4](#-experiment-4-advanced-oop-1-program)** &nbsp;·&nbsp; **[λ Experiment 5](#-experiment-5-functional-python-2-programs)** &nbsp;·&nbsp; **[🖥️ Experiment 6](#-experiment-6-gui-programming-3-programs)** &nbsp;·&nbsp; **[🗄️ Experiment 7](#-experiment-7-database-connectivity-1-program)** &nbsp;·&nbsp; **[🚀 How to Use](#-how-to-use)** &nbsp;·&nbsp; **[📖 Learning Path](#-learning-path)**
 
   <br>
 
-  **[🏠 Back to Main Repository](../)** &nbsp;·&nbsp; **[📄 Assignments](../Assignments/)**
+  **[🏠 Back to Main Repository](../)**
 
 </div>
 
