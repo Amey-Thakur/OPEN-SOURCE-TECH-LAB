@@ -116,7 +116,7 @@ The laboratory component focuses on the practical implementation of Python conce
   [![Language](https://img.shields.io/badge/Language-Python-blueviolet.svg)](Open%20Source%20Tech%20Lab/)
   [![Lab Manual](https://img.shields.io/badge/Lab%20Manual-Available-brightgreen.svg)](Open%20Source%20Tech%20Lab/PRACTICAL%20LAB.pdf)
 
-  **[📂 Browse All Experiments](Open%20Source%20Tech%20Lab/)**
+
 
 </div>
 
