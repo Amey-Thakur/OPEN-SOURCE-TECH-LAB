@@ -225,8 +225,10 @@ The laboratory component focuses on the practical implementation of Python conce
 <div align="center">
 
   [![Project](https://img.shields.io/badge/Project-COVID19%20Web%20Scraper-purple.svg)](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)
-  [![Platform](https://img.shields.io/badge/Platform-Python%20%7C%20Google%20Colab-green.svg)](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)
-  [![Technology](https://img.shields.io/badge/Technology-BeautifulSoup%20%7C%20Matplotlib-blue.svg)](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)
+  [![Platform](https://img.shields.io/badge/Platform-Python-blueviolet.svg)](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)
+  [![Platform](https://img.shields.io/badge/Platform-Google%20Colab-orange.svg)](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)
+  [![Technology](https://img.shields.io/badge/Technology-BeautifulSoup-blue.svg)](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)
+  [![Technology](https://img.shields.io/badge/Technology-Matplotlib-green.svg)](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)
   [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)
 
   ### 🖥️ COVID19 India Web Scraper & Visualizer
