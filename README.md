@@ -1,4 +1,6 @@
-<!-- HEADER -->
+<!-- =========================================================================================
+                                     HEADER SECTION
+     ========================================================================================= -->
 <div align="center">
 
   <img src="https://raw.githubusercontent.com/Amey-Thakur/COMPUTER-ENGINEERING/main/university-of-mumbai-logo.png" alt="University of Mumbai" width="200"/>
@@ -8,21 +10,23 @@
   ### CSL405 · Semester IV · Computer Engineering
 
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
-  [![University](https://img.shields.io/badge/University-Mumbai-orange.svg)](https://mu.ac.in/)
-  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-green.svg)](https://ternaengg.ac.in/)
+  [![University](https://img.shields.io/badge/University-Mumbai-%23A6192E.svg)](https://mu.ac.in/)
+  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
 
   **A comprehensive academic resource for Open Source Tech Lab (OSTL), focusing on Python programming, graphical user interfaces, database connectivity, and practical open-source methodologies.**
 
   ---
 
-  [📖 Overview](#overview) &nbsp;·&nbsp; [📂 Contents](#repository-contents) &nbsp;·&nbsp; [📚 Reference Books](#reference-books) &nbsp;·&nbsp; [✏️ Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [📄 Assignments](#assignments) &nbsp;·&nbsp; [🧪 Laboratory](#open-source-tech-laboratory) &nbsp;·&nbsp; [💻 Project](#open-source-tech-lab-project) &nbsp;·&nbsp; [📋 Syllabus](#syllabus) &nbsp;·&nbsp; [📘 Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [ℹ️ About](#about-this-repository) &nbsp;·&nbsp; [🙏 Acknowledgments](#acknowledgments)
+  [📖 Overview](#overview) &nbsp;·&nbsp; [📂 Contents](#repository-contents) &nbsp;·&nbsp; [📚 Reference Books](#reference-books) &nbsp;·&nbsp; [✏️ Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [📄 Assignments](#assignments) &nbsp;·&nbsp; [🧪 Laboratory](#open-source-tech-laboratory) &nbsp;·&nbsp; [💻 Project](#open-source-tech-lab-project) &nbsp;·&nbsp; [📋 Syllabus](#syllabus) &nbsp;·&nbsp; [📘 Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [ℹ️ About](#about-this-repository) &nbsp;·&nbsp; [🙏🏻 Acknowledgments](#acknowledgments)
 
 </div>
 
 ---
 
-<!-- OVERVIEW -->
+<!-- =========================================================================================
+                                     OVERVIEW SECTION
+     ========================================================================================= -->
 ## Overview
 
 Open Source Tech Lab (CSL405) is a core laboratory subject in the Second Year (Semester IV) of the Computer Engineering curriculum at the University of Mumbai. This course introduces students to the philosophy of open-source software and provides hands-on experience with Python as a primary tool for developing robust, scalable, and efficient applications.
@@ -56,7 +60,9 @@ All materials in this repository were gathered, organized, and documented by me 
 
 ---
 
-<!-- CONTENTS -->
+<!-- =========================================================================================
+                                     CONTENTS SECTION
+     ========================================================================================= -->
 ## Repository Contents
 
 ### Reference Books
@@ -85,33 +91,32 @@ Study materials and planning resources for effective laboratory preparation:
 
 Academic assignments for comprehensive learning and practice:
 
-<div align="center">
-
-**[📂 Browse All Assignments](Assignments/)**
-
-</div>
-
-| Resource | Description |
-|:---|:---|
-| 📝 [Assignment 1](Assignments/OSTL_Assignment-1.pdf) | Python fundamentals and data structure theory |
-| 📝 [Assignment 2](Assignments/OSTL_Assignment-2.pdf) | Advanced Python concepts, GUI, and DB theory |
+| # | Assignment | Description | Link |
+|:-:|:---|:---|:---:|
+| 1 | **Assignment 1** | Python fundamentals and data structure theory | [📄 View](Assignments/OSTL_Assignment-1.pdf) |
+| 2 | **Assignment 2** | Advanced Python concepts, GUI, and DB theory | [📄 View](Assignments/OSTL_Assignment-2.pdf) |
 
 ---
 
-<!-- LABORATORY -->
+<!-- =========================================================================================
+                                     LABORATORY SECTION
+     ========================================================================================= -->
 ## Open Source Tech Laboratory
 
 The laboratory component focuses on the practical implementation of Python concepts, ranging from basic data structures to advanced GUI and Database systems.
 
 <div align="center">
 
-  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-7-brightgreen.svg)](Open%20Source%20Tech%20Lab/)
-  [![Language](https://img.shields.io/badge/Language-Python-blue.svg)](Open%20Source%20Tech%20Lab/)
-  [![Lab Manual](https://img.shields.io/badge/Lab%20Manual-Available-orange.svg)](Open%20Source%20Tech%20Lab/PRACTICAL%20LAB.pdf)
+  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-7-yellowgreen.svg)](Open%20Source%20Tech%20Lab/)
+  [![Language](https://img.shields.io/badge/Language-Python-blueviolet.svg)](Open%20Source%20Tech%20Lab/)
+  [![Lab Manual](https://img.shields.io/badge/Lab%20Manual-Available-brightgreen.svg)](Open%20Source%20Tech%20Lab/PRACTICAL%20LAB.pdf)
 
   **[📂 Browse All Experiments](Open%20Source%20Tech%20Lab/)**
 
 </div>
+
+> [!TIP]
+> **Pythonic Thinking**: Always start by understanding the problem, then write clean, readable code with meaningful variable names. Use list comprehensions, generators, and built-in functions to write efficient Python. Practice the DRY (Don't Repeat Yourself) principle and leverage Python's extensive standard library for common tasks.
 
 ### Laboratory Experiments
 
@@ -203,10 +208,13 @@ The laboratory component focuses on the practical implementation of Python conce
 | Resource | Description |
 |:---|:---|
 | 🧪 [Laboratory Journal](Open%20Source%20Tech%20Lab/PRACTICAL%20LAB.pdf) | Complete record of experiments with theory, code, and outputs |
+| 📖 [Lab README](Open%20Source%20Tech%20Lab/) | Detailed navigation guide with program descriptions |
 
 ---
 
-<!-- PROJECT -->
+<!-- =========================================================================================
+                                     PROJECT SECTION
+     ========================================================================================= -->
 ## Open Source Tech Lab Project
 
 <div align="center">
@@ -224,19 +232,16 @@ The laboratory component focuses on the practical implementation of Python conce
 
 <div align="center">
 
-  ### 👥 Project Authors
-
-  **Terna Engineering College | Computer Engineering | Batch of 2022**
-
-  | <img src="https://github.com/Amey-Thakur.png" width="120" alt="Amey Thakur"> | <img src="https://github.com/rizvihasan.png" width="120" alt="Hasan Rizvi"> |
-  | :---: | :---: |
-  | [**Amey Thakur**](https://github.com/Amey-Thakur) | [**Hasan Rizvi**](https://github.com/rizvihasan) |
-
+### 👥 Authors
+| <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur) | <img src="https://github.com/rizvihasan.png" width="150" alt="Hasan Rizvi"><br>[**Hasan Rizvi**](https://github.com/rizvihasan) |
+| :---: | :---: |
 </div>
 
-*Special thanks to [Hasan Rizvi](https://github.com/rizvihasan) for his meaningful contributions, guidance, and support that helped shape this work.*
+> [!IMPORTANT]
+> ### 🤝🏻 Special Acknowledgement
+> *Special thanks to [Hasan Rizvi](https://github.com/rizvihasan) for his meaningful contributions, guidance, and support that helped shape this work.*
 
-### 📖 Project Overview
+### Project Overview
 
 A robust web scraping and visualization tool developed in **Python 3**. This project scrapes authentic data from the **Ministry of Health and Family Welfare (MoHFW)**, India, using **BeautifulSoup**. It implements data organization using **PrettyTable** and visualizes the impact through dynamic **Bar Plots** and **Donut Charts** using **Matplotlib**. This project showcases the power of open-source libraries in handling real-world data science challenges.
 
@@ -250,15 +255,22 @@ A robust web scraping and visualization tool developed in **Python 3**. This pro
 
 ---
 
-<!-- SYLLABUS -->
+<!-- =========================================================================================
+                                     SYLLABUS SECTION
+     ========================================================================================= -->
 ## Syllabus
 
 > 📋 **[Official CBCGS Syllabus](SE-Comps_CBCGS_Syllabus.pdf)**  
 > Complete Second Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for Open Source Tech Lab.
 
+> [!IMPORTANT]
+> Always verify the latest syllabus details with the official University of Mumbai website, as curriculum updates may occur after this repository's archival date.
+
 ---
 
-<!-- USAGE -->
+<!-- =========================================================================================
+                                     USAGE GUIDELINES SECTION
+     ========================================================================================= -->
 ## Usage Guidelines
 
 This repository is openly shared to support learning and knowledge exchange across the academic community.
@@ -274,16 +286,21 @@ The documentation and organization may provide insights into academic resource c
 
 ---
 
-<!-- LICENSE -->
+<!-- =========================================================================================
+                                     LICENSE SECTION
+     ========================================================================================= -->
 ## License
 
 This repository and all academic content are made available under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. See the [LICENSE](LICENSE) file for complete terms.
 
-**Summary**: You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original author.
+> [!NOTE]
+> **Summary**: You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original author.
 
 ---
 
-<!-- ABOUT -->
+<!-- =========================================================================================
+                                     ABOUT SECTION
+     ========================================================================================= -->
 ## About This Repository
 
 **Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur)  
@@ -305,14 +322,19 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
 ---
 
-<!-- FOOTER -->
+<!-- =========================================================================================
+                                     FOOTER SECTION
+     ========================================================================================= -->
 <div align="center">
 
-  **[⬆ Back to Top](#open-source-tech-lab)** &nbsp;·&nbsp; **[📖 Overview](#overview)** &nbsp;·&nbsp; **[📂 Contents](#repository-contents)** &nbsp;·&nbsp; **[📚 Reference Books](#reference-books)** &nbsp;·&nbsp; **[✏️ Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[📄 Assignments](#assignments)** &nbsp;·&nbsp; **[🧪 Laboratory](#open-source-tech-laboratory)** &nbsp;·&nbsp; **[💻 Project](#open-source-tech-lab-project)** &nbsp;·&nbsp; **[📋 Syllabus](#syllabus)** &nbsp;·&nbsp; **[📘 Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[📜 License](#license)** &nbsp;·&nbsp; **[ℹ️ About](#about-this-repository)** &nbsp;·&nbsp; **[🙏 Acknowledgments](#acknowledgments)**
+  <!-- Footer Navigation -->
+  **[⬆ Back to Top](#open-source-tech-lab)**
+
+  **[📖 Overview](#overview)** &nbsp;·&nbsp; **[📂 Contents](#repository-contents)** &nbsp;·&nbsp; **[📚 Reference Books](#reference-books)** &nbsp;·&nbsp; **[✏️ Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[📄 Assignments](#assignments)** &nbsp;·&nbsp; **[🧪 Laboratory](#open-source-tech-laboratory)** &nbsp;·&nbsp; **[💻 Project](#open-source-tech-lab-project)** &nbsp;·&nbsp; **[📋 Syllabus](#syllabus)** &nbsp;·&nbsp; **[📘 Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[📜 License](#license)** &nbsp;·&nbsp; **[ℹ️ About](#about-this-repository)** &nbsp;·&nbsp; **[🙏🏻 Acknowledgments](#acknowledgments)**
 
   <br>
 
-  **[🧪 Open Source Tech Laboratory](Open%20Source%20Tech%20Lab/)** &nbsp;·&nbsp; **[📄 Assignments](Assignments/)** &nbsp;·&nbsp; **[💻 COVID19 Web Scraper Project](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)**
+  **[🧪 Open Source Tech Laboratory](Open%20Source%20Tech%20Lab/)** &nbsp;·&nbsp; **[💻 COVID19 Web Scraper Project](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)**
 
 </div>
 
