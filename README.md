@@ -91,10 +91,12 @@ Study materials and planning resources for effective laboratory preparation:
 
 Academic assignments for comprehensive learning and practice:
 
-| # | Assignment | Description | Link |
-|:-:|:---|:---|:---:|
-| 1 | **Assignment 1** | Python fundamentals and data structure theory | [📄 View](Assignments/OSTL_Assignment-1.pdf) |
-| 2 | **Assignment 2** | Advanced Python concepts, GUI, and DB theory | [📄 View](Assignments/OSTL_Assignment-2.pdf) |
+| # | Assignment | Marks | Description | Link |
+|:-:|:---|:---:|:---|:---:|
+| 1 | **Assignment 1** | 54/60 | Python fundamentals and data structure theory | [📄 View](Assignments/OSTL_Assignment-1.pdf) |
+| 2 | **Assignment 2** | 60/60 | Advanced Python concepts, GUI, and DB theory | [📄 View](Assignments/OSTL_Assignment-2.pdf) |
+
+**Topics Covered**: Language Comparison (Python vs C/C++) · Data Structures (mutable vs immutable) · GUI Frameworks (Tkinter, event-driven programming) · Database APIs (PEP 249, MySQL connectivity)
 
 ---
 
