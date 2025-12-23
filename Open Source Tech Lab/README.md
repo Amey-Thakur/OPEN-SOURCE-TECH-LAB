@@ -175,6 +175,7 @@ This section documents the structured learning schedule followed during the acad
 | 1 | [Database_Connectivity.py](Experiment-7/Database_Connectivity.py) | MySQL + Python | Robust CRUD system with parameterized queries |
 
 
+---
 
 <!-- =========================================================================================
                                      FOOTER SECTION
