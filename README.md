@@ -125,15 +125,15 @@ The laboratory component focuses on the practical implementation of Python conce
 
 ### Laboratory Experiments
 
-| # | Experiment | Topic | Core Implementation | Source Code |
-|:-:|:---|:---|:---|:-:|
-| 1 | **Experiment 1** | Python Basics | Datatypes, String Ops, Advanced Data Structures | [View](Open%20Source%20Tech%20Lab/Experiment-1/) |
-| 2 | **Experiment 2** | Control Flow | Logic, Loops, and Menu-Driven Functions | [View](Open%20Source%20Tech%20Lab/Experiment-2/) |
-| 3 | **Experiment 3** | OOP Basics | Classes, Objects, and Constructors | [View](Open%20Source%20Tech%20Lab/Experiment-3/) |
-| 4 | **Experiment 4** | Advanced OOP | Principles of Inheritance | [View](Open%20Source%20Tech%20Lab/Experiment-4/) |
-| 5 | **Experiment 5** | Functional Python | File I/O, Lambda, Map, Filter, Reduce | [View](Open%20Source%20Tech%20Lab/Experiment-5/) |
-| 6 | **Experiment 6** | GUI Programming | Tkinter Basic, Class-based, and CRUD UI | [View](Open%20Source%20Tech%20Lab/Experiment-6/) |
-| 7 | **Experiment 7** | Database Systems | MySQL Connectivity and CRUD Logic | [View](Open%20Source%20Tech%20Lab/Experiment-7/) |
+| Experiment | Topic | Core Implementation | Source Code |
+|:-:|:---|:---|:-:|
+| 1 | Python Basics | Datatypes, String Ops, Advanced Data Structures | [View](Open%20Source%20Tech%20Lab/Experiment-1/) |
+| 2 | Control Flow | Logic, Loops, and Menu-Driven Functions | [View](Open%20Source%20Tech%20Lab/Experiment-2/) |
+| 3 | OOP Basics | Classes, Objects, and Constructors | [View](Open%20Source%20Tech%20Lab/Experiment-3/) |
+| 4 | Advanced OOP | Principles of Inheritance | [View](Open%20Source%20Tech%20Lab/Experiment-4/) |
+| 5 | Functional Python | File I/O, Lambda, Map, Filter, Reduce | [View](Open%20Source%20Tech%20Lab/Experiment-5/) |
+| 6 | GUI Programming | Tkinter Basic, Class-based, and CRUD UI | [View](Open%20Source%20Tech%20Lab/Experiment-6/) |
+| 7 | Database Systems | MySQL Connectivity and CRUD Logic | [View](Open%20Source%20Tech%20Lab/Experiment-7/) |
 
 ### Program Details
 
