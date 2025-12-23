@@ -95,7 +95,7 @@ Study materials and planning resources for effective laboratory preparation:
 Academic assignments for comprehensive learning and practice:
 
 | # | Assignment | Marks | Description |
-|:-:|:---|:---:|:---|:---:|
+|:-:|:---|:-:|:---|
 | 1 | [**Assignment 1**](Assignments/OSTL_Assignment-1.pdf) | 54/60 | Python fundamentals and data structure theory |
 | 2 | [**Assignment 2**](Assignments/OSTL_Assignment-2.pdf) | 60/60 | Advanced Python concepts, GUI, and DB theory |
 
