@@ -21,7 +21,7 @@
   ---
 
   <!-- Navigation Links -->
-  **[Experiment 1](#experiment-1-python-basics-3-programs)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-control-flow-3-programs)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-intro-to-oop-2-programs)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-advanced-oop-1-program)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-functional-python-2-programs)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-gui-programming-3-programs)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-database-connectivity-1-program)** &nbsp;·&nbsp; **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)**
+  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-python-basics-3-programs)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-control-flow-3-programs)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-intro-to-oop-2-programs)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-advanced-oop-1-program)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-functional-python-2-programs)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-gui-programming-3-programs)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-database-connectivity-1-program)**
 
 </div>
 
@@ -32,6 +32,51 @@
 
 > [!WARNING]
 > **Environment Requirements**: Python 3.x is required for all experiments. For Experiments 6 and 7, ensure **MySQL Server** is installed and configured, along with the **mysql-connector-python** library (`pip install mysql-connector-python`).
+
+---
+
+<!-- =========================================================================================
+                                     HOW TO USE
+     ========================================================================================= -->
+## How to Use
+
+### Requirements
+
+- **Python 3.x**
+- **MySQL Server** (for Experiment 6 and 7)
+- **mysql-connector-python** library:
+  ```bash
+  pip install mysql-connector-python
+  ```
+
+### Running Programs
+
+1. **Navigate** to the specific experiment folder
+2. **Execute** using the Python interpreter:
+   ```bash
+   python filename.py
+   ```
+
+> [!TIP]
+> **Database Setup**: For Experiments 6 and 7, ensure you have a database named `ostldb` and a table `Student` configured with the appropriate schema (RollNo, Name, etc.) on your local MySQL server.
+
+---
+
+<!-- =========================================================================================
+                                     LEARNING PATH
+     ========================================================================================= -->
+## Learning Path
+
+This section documents the structured learning schedule followed during the academic semester to master Python and Open Source technologies.
+
+| Dates | Focus Area | Key Topics Covered |
+|:---|:---|:---|
+| **December 2-3, 2019** | Python Documentation Basics | Control Flow, Functions, Data Structures, Modules, File I/O, Exceptions, OOP (Classes & Inheritance) |
+| **December 4, 2019** | Data Science Foundational Basics | Pandas and NumPy basics for data manipulation |
+| **December 5, 2019** | Web & API Basics | JSON data handling and Postman for API testing |
+| **December 6, 2019** | Network Programming | Reading and writing emails using **SMTP** and **IMAP** protocols |
+| **December 9-10, 2019** | Advanced Automation | Detecting and Replying to Threads using SMTP and IMAP |
+| **December 11, 2019** | Systems Programming | Multithreading and Multiprocessing basics |
 
 ---
 
@@ -118,52 +163,7 @@
 |:-:|:---|:---|:---|
 | 1 | [Database_Connectivity.py](Experiment-7/Database_Connectivity.py) | MySQL + Python | Robust CRUD system with parameterized queries |
 
----
 
-<!-- =========================================================================================
-                                     HOW TO USE
-     ========================================================================================= -->
-## How to Use
-
-### Requirements
-
-- **Python 3.x**
-- **MySQL Server** (for Experiment 6 and 7)
-- **mysql-connector-python** library:
-  ```bash
-  pip install mysql-connector-python
-  ```
-
-### Running Programs
-
-1. **Navigate** to the specific experiment folder
-2. **Execute** using the Python interpreter:
-   ```bash
-   python filename.py
-   ```
-
-> [!TIP]
-> **Database Setup**: For Experiments 6 and 7, ensure you have a database named `ostldb` and a table `Student` configured with the appropriate schema (RollNo, Name, etc.) on your local MySQL server.
-
----
-
-<!-- =========================================================================================
-                                     LEARNING PATH
-     ========================================================================================= -->
-## 📖 Learning Path
-
-This section documents the structured learning schedule followed during the academic semester to master Python and Open Source technologies.
-
-| Dates | Focus Area | Key Topics Covered |
-|:---|:---|:---|
-| **December 2-3, 2019** | Python Documentation Basics | Control Flow, Functions, Data Structures, Modules, File I/O, Exceptions, OOP (Classes & Inheritance) |
-| **December 4, 2019** | Data Science Foundational Basics | Pandas and NumPy basics for data manipulation |
-| **December 5, 2019** | Web & API Basics | JSON data handling and Postman for API testing |
-| **December 6, 2019** | Network Programming | Reading and writing emails using **SMTP** and **IMAP** protocols |
-| **December 9-10, 2019** | Advanced Automation | Detecting and Replying to Threads using SMTP and IMAP |
-| **December 11, 2019** | Systems Programming | Multithreading and Multiprocessing basics |
-
----
 
 <!-- =========================================================================================
                                      LAB MANUAL
@@ -184,7 +184,7 @@ This section documents the structured learning schedule followed during the acad
   <!-- Footer Navigation -->
   **[↑ Back to Top](#open-source-tech-laboratory)**
 
-  **[Experiment 1](#experiment-1-python-basics-3-programs)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-control-flow-3-programs)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-intro-to-oop-2-programs)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-advanced-oop-1-program)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-functional-python-2-programs)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-gui-programming-3-programs)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-database-connectivity-1-program)** &nbsp;·&nbsp; **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)**
+  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-python-basics-3-programs)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-control-flow-3-programs)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-intro-to-oop-2-programs)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-advanced-oop-1-program)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-functional-python-2-programs)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-gui-programming-3-programs)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-database-connectivity-1-program)**
 
   <br>
 
