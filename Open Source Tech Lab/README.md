@@ -54,7 +54,7 @@
 ## Experiment 2: Control Flow (3 Programs)
 
 | # | Program | Algorithm | Description |
-|:---|:---|:---|:---|
+|:-:|:---|:---|:---|
 | 1 | [If_Else_Logic.py](Experiment-2/If_Else_Logic.py) | Identity Check | Memory address and string comparison logic |
 | 2 | [Loops_Factorial_Fibonacci.py](Experiment-2/Loops_Factorial_Fibonacci.py) | For / While | Calculating factorial and Fibonacci series |
 | 3 | [Functions_Menu_Driven.py](Experiment-2/Functions_Menu_Driven.py) | Menu-driven | Modular functions for mathematical operations |
@@ -67,7 +67,7 @@
 ## Experiment 3: Intro to OOP (2 Programs)
 
 | # | Program | Core Concept | Description |
-|:---|:---|:---|:---|
+|:-:|:---|:---|:---|
 | 1 | [Classes_and_Objects.py](Experiment-3/Classes_and_Objects.py) | Instance/Class Methods | Managing student data states |
 | 2 | [Constructors_Implementation.py](Experiment-3/Constructors_Implementation.py) | `__init__` method | Initializing objects with default/custom args |
 
@@ -79,7 +79,7 @@
 ## Experiment 4: Advanced OOP (1 Program)
 
 | # | Program | Core Concept | Description |
-|:---|:---|:---|:---|
+|:-:|:---|:---|:---|
 | 1 | [Inheritance_Implementation.py](Experiment-4/Inheritance_Implementation.py) | Single Inheritance | Extending parent classes and method overriding |
 
 ---
@@ -90,7 +90,7 @@
 ## Experiment 5: Functional Python (2 Programs)
 
 | # | Program | Concepts | Description |
-|:---|:---|:---|:---|
+|:-:|:---|:---|:---|
 | 1 | [File_IO_Operations.py](Experiment-5/File_IO_Operations.py) | File Handling | Read, Write, and Append with Error Handling |
 | 2 | [Lambda_Filter_Map_Reduce.py](Experiment-5/Lambda_Filter_Map_Reduce.py) | Higher-order Functions | Advanced functional computations |
 
@@ -102,7 +102,7 @@
 ## Experiment 6: GUI Programming (3 Programs)
 
 | # | Program | Complexity | Focus Area |
-|:---|:---|:---|:---|
+|:-:|:---|:---|:---|
 | 1 | [GUI_Basic_Implementation.py](Experiment-6/GUI_Basic_Implementation.py) | Basic | Grid positioning and Entry fields |
 | 2 | [GUI_Class_Implementation.py](Experiment-6/GUI_Class_Implementation.py) | Intermediate | Class-based UI encapsulation |
 | 3 | [GUI_CRUD_Implementation.py](Experiment-6/GUI_CRUD_Implementation.py) | Advanced | Modern UI with Menus and ttk themes |
@@ -115,7 +115,7 @@
 ## Experiment 7: Database Connectivity (1 Program)
 
 | # | Program | Technology | Description |
-|:---|:---|:---|:---|
+|:-:|:---|:---|:---|
 | 1 | [Database_Connectivity.py](Experiment-7/Database_Connectivity.py) | MySQL + Python | Robust CRUD system with parameterized queries |
 
 ---
