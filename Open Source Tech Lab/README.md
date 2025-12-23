@@ -21,7 +21,7 @@
   ---
 
   <!-- Navigation Links -->
-  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-python-basics-3-programs)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-control-flow-3-programs)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-intro-to-oop-2-programs)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-advanced-oop-1-program)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-functional-python-2-programs)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-gui-programming-3-programs)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-database-connectivity-1-program)**
+  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Lab Manual](#lab-manual)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-python-basics-3-programs)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-control-flow-3-programs)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-intro-to-oop-2-programs)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-advanced-oop-1-program)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-functional-python-2-programs)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-gui-programming-3-programs)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-database-connectivity-1-program)**
 
 </div>
 
@@ -77,6 +77,17 @@ This section documents the structured learning schedule followed during the acad
 | **December 6, 2019** | Network Programming | Reading and writing emails using **SMTP** and **IMAP** protocols |
 | **December 9-10, 2019** | Advanced Automation | Detecting and Replying to Threads using SMTP and IMAP |
 | **December 11, 2019** | Systems Programming | Multithreading and Multiprocessing basics |
+
+---
+
+<!-- =========================================================================================
+                                     LAB MANUAL
+     ========================================================================================= -->
+## Lab Manual
+
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [PRACTICAL LAB.pdf](PRACTICAL%20LAB.pdf) | Complete laboratory manual with theory and analysis |
 
 ---
 
@@ -166,17 +177,6 @@ This section documents the structured learning schedule followed during the acad
 
 
 <!-- =========================================================================================
-                                     LAB MANUAL
-     ========================================================================================= -->
-## Lab Manual
-
-| # | Resource | Description |
-|:-:|:---|:---|
-| 1 | [PRACTICAL LAB.pdf](PRACTICAL%20LAB.pdf) | Complete laboratory manual with theory and analysis |
-
----
-
-<!-- =========================================================================================
                                      FOOTER SECTION
      ========================================================================================= -->
 <div align="center">
@@ -184,7 +184,7 @@ This section documents the structured learning schedule followed during the acad
   <!-- Footer Navigation -->
   **[↑ Back to Top](#open-source-tech-laboratory)**
 
-  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-python-basics-3-programs)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-control-flow-3-programs)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-intro-to-oop-2-programs)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-advanced-oop-1-program)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-functional-python-2-programs)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-gui-programming-3-programs)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-database-connectivity-1-program)**
+  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Lab Manual](#lab-manual)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-python-basics-3-programs)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-control-flow-3-programs)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-intro-to-oop-2-programs)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-advanced-oop-1-program)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-functional-python-2-programs)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-gui-programming-3-programs)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-database-connectivity-1-program)**
 
   <br>
 
