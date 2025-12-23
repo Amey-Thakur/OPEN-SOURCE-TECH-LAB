@@ -18,7 +18,7 @@
 
   ---
 
-  [📖 Overview](#overview) &nbsp;·&nbsp; [📂 Contents](#repository-contents) &nbsp;·&nbsp; [📚 Reference Books](#reference-books) &nbsp;·&nbsp; [✏️ Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [📄 Assignments](#assignments) &nbsp;·&nbsp; [🧪 Laboratory](#open-source-tech-laboratory) &nbsp;·&nbsp; [💻 Project](#open-source-tech-lab-project) &nbsp;·&nbsp; [📋 Syllabus](#syllabus) &nbsp;·&nbsp; [📘 Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [ℹ️ About](#about-this-repository) &nbsp;·&nbsp; [🙏🏻 Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Laboratory](#open-source-tech-laboratory) &nbsp;·&nbsp; [Project](#open-source-tech-lab-project) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -83,10 +83,10 @@ This collection includes curated reference materials covering Python and Laborat
 
 Study materials and planning resources for effective laboratory preparation:
 
-| Resource | Description |
-|:---|:---|
-| 🎯 [Examination Blueprint](SE-Comps_CBCGS_Syllabus.pdf) | Course outcomes and marking scheme (Syllabus) |
-| 📄 [Course Certificate](Certificate.jpg) | Recognition of completion/achievement |
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [Examination Blueprint](SE-Comps_CBCGS_Syllabus.pdf) | Course outcomes and marking scheme (Syllabus) |
+| 2 | [Course Certificate](Certificate.jpg) | Recognition of completion/achievement |
 
 ---
 
@@ -94,10 +94,10 @@ Study materials and planning resources for effective laboratory preparation:
 
 Academic assignments for comprehensive learning and practice:
 
-| # | Assignment | Marks | Description | Link |
+| # | Assignment | Marks | Description |
 |:-:|:---|:---:|:---|:---:|
-| 1 | **Assignment 1** | 54/60 | Python fundamentals and data structure theory | [📄 View](Assignments/OSTL_Assignment-1.pdf) |
-| 2 | **Assignment 2** | 60/60 | Advanced Python concepts, GUI, and DB theory | [📄 View](Assignments/OSTL_Assignment-2.pdf) |
+| 1 | [**Assignment 1**](Assignments/OSTL_Assignment-1.pdf) | 54/60 | Python fundamentals and data structure theory |
+| 2 | [**Assignment 2**](Assignments/OSTL_Assignment-2.pdf) | 60/60 | Advanced Python concepts, GUI, and DB theory |
 
 **Topics Covered**: Language Comparison (Python vs C/C++) · Data Structures (mutable vs immutable) · GUI Frameworks (Tkinter, event-driven programming) · Database APIs (PEP 249, MySQL connectivity)
 
@@ -125,20 +125,20 @@ The laboratory component focuses on the practical implementation of Python conce
 
 ### Laboratory Experiments
 
-| Experiment | Topic | Core Implementation | View |
-|:---|:---|:---|:-:|
-| **Experiment 1** | Python Basics | Datatypes, String Ops, Advanced Data Structures | [📂](Open%20Source%20Tech%20Lab/Experiment-1/) |
-| **Experiment 2** | Control Flow | Logic, Loops, and Menu-Driven Functions | [📂](Open%20Source%20Tech%20Lab/Experiment-2/) |
-| **Experiment 3** | OOP Basics | Classes, Objects, and Constructors | [📂](Open%20Source%20Tech%20Lab/Experiment-3/) |
-| **Experiment 4** | Advanced OOP | Principles of Inheritance | [📂](Open%20Source%20Tech%20Lab/Experiment-4/) |
-| **Experiment 5** | Functional Python | File I/O, Lambda, Map, Filter, Reduce | [📂](Open%20Source%20Tech%20Lab/Experiment-5/) |
-| **Experiment 6** | GUI Programming | Tkinter Basic, Class-based, and CRUD UI | [📂](Open%20Source%20Tech%20Lab/Experiment-6/) |
-| **Experiment 7** | Database Systems | MySQL Connectivity and CRUD Logic | [📂](Open%20Source%20Tech%20Lab/Experiment-7/) |
+| # | Experiment | Topic | Core Implementation | Source Code |
+|:-:|:---|:---|:---|:-:|
+| 1 | **Experiment 1** | Python Basics | Datatypes, String Ops, Advanced Data Structures | [View](Open%20Source%20Tech%20Lab/Experiment-1/) |
+| 2 | **Experiment 2** | Control Flow | Logic, Loops, and Menu-Driven Functions | [View](Open%20Source%20Tech%20Lab/Experiment-2/) |
+| 3 | **Experiment 3** | OOP Basics | Classes, Objects, and Constructors | [View](Open%20Source%20Tech%20Lab/Experiment-3/) |
+| 4 | **Experiment 4** | Advanced OOP | Principles of Inheritance | [View](Open%20Source%20Tech%20Lab/Experiment-4/) |
+| 5 | **Experiment 5** | Functional Python | File I/O, Lambda, Map, Filter, Reduce | [View](Open%20Source%20Tech%20Lab/Experiment-5/) |
+| 6 | **Experiment 6** | GUI Programming | Tkinter Basic, Class-based, and CRUD UI | [View](Open%20Source%20Tech%20Lab/Experiment-6/) |
+| 7 | **Experiment 7** | Database Systems | MySQL Connectivity and CRUD Logic | [View](Open%20Source%20Tech%20Lab/Experiment-7/) |
 
 ### Program Details
 
 <details>
-<summary><strong>🐍 Experiment 1: Python Fundamentals (3 Programs)</strong></summary>
+<summary><strong>Experiment 1: Python Fundamentals (3 Programs)</strong></summary>
 
 | Program | Description | Code |
 |:---|:---|:-:|
@@ -149,7 +149,7 @@ The laboratory component focuses on the practical implementation of Python conce
 </details>
 
 <details>
-<summary><strong>🛠️ Experiment 2: Control Flow & Functions (3 Programs)</strong></summary>
+<summary><strong>Experiment 2: Control Flow & Functions (3 Programs)</strong></summary>
 
 | Program | Description | Code |
 |:---|:---|:-:|
@@ -160,7 +160,7 @@ The laboratory component focuses on the practical implementation of Python conce
 </details>
 
 <details>
-<summary><strong>🧱 Experiment 3: Introduction to OOP (2 Programs)</strong></summary>
+<summary><strong>Experiment 3: Introduction to OOP (2 Programs)</strong></summary>
 
 | Program | Description | Code |
 |:---|:---|:-:|
@@ -170,7 +170,7 @@ The laboratory component focuses on the practical implementation of Python conce
 </details>
 
 <details>
-<summary><strong>🏛️ Experiment 4: Advanced OOP (1 Program)</strong></summary>
+<summary><strong>Experiment 4: Advanced OOP (1 Program)</strong></summary>
 
 | Program | Description | Code |
 |:---|:---|:-:|
@@ -179,7 +179,7 @@ The laboratory component focuses on the practical implementation of Python conce
 </details>
 
 <details>
-<summary><strong>λ Experiment 5: Functional Python (2 Programs)</strong></summary>
+<summary><strong>Experiment 5: Functional Python (2 Programs)</strong></summary>
 
 | Program | Description | Code |
 |:---|:---|:-:|
@@ -189,7 +189,7 @@ The laboratory component focuses on the practical implementation of Python conce
 </details>
 
 <details>
-<summary><strong>🖥️ Experiment 6: GUI Programming with Tkinter (3 Programs)</strong></summary>
+<summary><strong>Experiment 6: GUI Programming with Tkinter (3 Programs)</strong></summary>
 
 | Program | Description | Code |
 |:---|:---|:-:|
@@ -200,7 +200,7 @@ The laboratory component focuses on the practical implementation of Python conce
 </details>
 
 <details>
-<summary><strong>🗄️ Experiment 7: Database Connectivity (1 Program)</strong></summary>
+<summary><strong>Experiment 7: Database Connectivity (1 Program)</strong></summary>
 
 | Program | Description | Code |
 |:---|:---|:-:|
@@ -210,10 +210,10 @@ The laboratory component focuses on the practical implementation of Python conce
 
 ### Laboratory Documentation
 
-| Resource | Description |
-|:---|:---|
-| 🧪 [Laboratory Journal](Open%20Source%20Tech%20Lab/PRACTICAL%20LAB.pdf) | Complete record of experiments with theory, code, and outputs |
-| 📖 [Lab README](Open%20Source%20Tech%20Lab/) | Detailed navigation guide with program descriptions |
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [Laboratory Journal](Open%20Source%20Tech%20Lab/PRACTICAL%20LAB.pdf) | Complete record of experiments with theory, code, and outputs |
+| 2 | [Lab README](Open%20Source%20Tech%20Lab/) | Detailed navigation guide with program descriptions |
 
 ---
 
@@ -252,13 +252,13 @@ The laboratory component focuses on the practical implementation of Python conce
 
 A robust web scraping and visualization tool developed in **Python 3**. This project scrapes authentic data from the **Ministry of Health and Family Welfare (MoHFW)**, India, using **BeautifulSoup**. It implements data organization using **PrettyTable** and visualizes the impact through dynamic **Bar Plots** and **Donut Charts** using **Matplotlib**. This project showcases the power of open-source libraries in handling real-world data science challenges.
 
-### 🔗 Resources
+### Resources
 
-| Resource | Description |
-|:---|:---|
-| 📜 [Project Repository](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER) | Complete source code and documentation |
-| 🐍 [Source Code](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER/blob/main/Covid19_Web_Scraper.py) | Primary Python implementation |
-| 📊 [Kaggle Notebook](https://www.kaggle.com/ameythakur20/covid19-web-scraper) | Interactive visualization on Kaggle |
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [Project Repository](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER) | Complete source code and documentation |
+| 2 | [Source Code](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER/blob/main/Covid19_Web_Scraper.py) | Primary Python implementation |
+| 3 | [Kaggle Notebook](https://www.kaggle.com/ameythakur20/covid19-web-scraper) | Interactive visualization on Kaggle |
 
 ---
 
@@ -267,7 +267,7 @@ A robust web scraping and visualization tool developed in **Python 3**. This pro
      ========================================================================================= -->
 ## Syllabus
 
-> 📋 **[Official CBCGS Syllabus](SE-Comps_CBCGS_Syllabus.pdf)**  
+> **[Official CBCGS Syllabus](SE-Comps_CBCGS_Syllabus.pdf)**  
 > Complete Second Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for Open Source Tech Lab.
 
 > [!IMPORTANT]
@@ -335,13 +335,13 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[⬆ Back to Top](#open-source-tech-lab)**
+  **[↑ Back to Top](#open-source-tech-lab)**
 
-  **[📖 Overview](#overview)** &nbsp;·&nbsp; **[📂 Contents](#repository-contents)** &nbsp;·&nbsp; **[📚 Reference Books](#reference-books)** &nbsp;·&nbsp; **[✏️ Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[📄 Assignments](#assignments)** &nbsp;·&nbsp; **[🧪 Laboratory](#open-source-tech-laboratory)** &nbsp;·&nbsp; **[💻 Project](#open-source-tech-lab-project)** &nbsp;·&nbsp; **[📋 Syllabus](#syllabus)** &nbsp;·&nbsp; **[📘 Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[📜 License](#license)** &nbsp;·&nbsp; **[ℹ️ About](#about-this-repository)** &nbsp;·&nbsp; **[🙏🏻 Acknowledgments](#acknowledgments)**
+  **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[Assignments](#assignments)** &nbsp;·&nbsp; **[Laboratory](#open-source-tech-laboratory)** &nbsp;·&nbsp; **[Project](#open-source-tech-lab-project)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
 
   <br>
 
-  **[🧪 Open Source Tech Laboratory](Open%20Source%20Tech%20Lab/)** &nbsp;·&nbsp; **[💻 COVID19 Web Scraper Project](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)**
+  **[Open Source Tech Laboratory](Open%20Source%20Tech%20Lab/)** &nbsp;·&nbsp; **[COVID19 Web Scraper Project](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)**
 
 </div>
 
