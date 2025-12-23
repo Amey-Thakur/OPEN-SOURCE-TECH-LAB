@@ -21,7 +21,7 @@
   ---
 
   <!-- Navigation Links -->
-  **[🐍 Experiment 1](#-experiment-1-python-basics-3-programs)** &nbsp;·&nbsp; **[🛠️ Experiment 2](#-experiment-2-control-flow-3-programs)** &nbsp;·&nbsp; **[🧱 Experiment 3](#-experiment-3-intro-to-oop-2-programs)** &nbsp;·&nbsp; **[🏛️ Experiment 4](#-experiment-4-advanced-oop-1-program)** &nbsp;·&nbsp; **[λ Experiment 5](#-experiment-5-functional-python-2-programs)** &nbsp;·&nbsp; **[🖥️ Experiment 6](#-experiment-6-gui-programming-3-programs)** &nbsp;·&nbsp; **[🗄️ Experiment 7](#-experiment-7-database-connectivity-1-program)** &nbsp;·&nbsp; **[🚀 How to Use](#-how-to-use)** &nbsp;·&nbsp; **[📖 Learning Path](#-learning-path)**
+  **[Experiment 1](#experiment-1-python-basics-3-programs)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-control-flow-3-programs)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-intro-to-oop-2-programs)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-advanced-oop-1-program)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-functional-python-2-programs)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-gui-programming-3-programs)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-database-connectivity-1-program)** &nbsp;·&nbsp; **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)**
 
 </div>
 
@@ -38,10 +38,10 @@
 <!-- =========================================================================================
                                      EXPERIMENT 1
      ========================================================================================= -->
-## 🐍 Experiment 1: Python Basics (3 Programs)
+## Experiment 1: Python Basics (3 Programs)
 
 | # | Program | Description |
-|:---|:---|:---|
+|:-:|:---|:---|
 | 1 | [Basic_Datatypes_And_IO.py](Experiment-1/Basic_Datatypes_And_IO.py) | Input/Output, Casting, and basic Datatypes |
 | 2 | [Data_Structures_And_String_Ops.py](Experiment-1/Data_Structures_And_String_Ops.py) | Sets, ByteArrays, and String manipulation |
 | 3 | [Advanced_Data_Structures.py](Experiment-1/Advanced_Data_Structures.py) | Mixed Lists, Tuples, Dictionaries, and Arrays |
@@ -51,7 +51,7 @@
 <!-- =========================================================================================
                                      EXPERIMENT 2
      ========================================================================================= -->
-## 🛠️ Experiment 2: Control Flow (3 Programs)
+## Experiment 2: Control Flow (3 Programs)
 
 | # | Program | Algorithm | Description |
 |:---|:---|:---|:---|
@@ -64,7 +64,7 @@
 <!-- =========================================================================================
                                      EXPERIMENT 3
      ========================================================================================= -->
-## 🧱 Experiment 3: Intro to OOP (2 Programs)
+## Experiment 3: Intro to OOP (2 Programs)
 
 | # | Program | Core Concept | Description |
 |:---|:---|:---|:---|
@@ -76,7 +76,7 @@
 <!-- =========================================================================================
                                      EXPERIMENT 4
      ========================================================================================= -->
-## 🏛️ Experiment 4: Advanced OOP (1 Program)
+## Experiment 4: Advanced OOP (1 Program)
 
 | # | Program | Core Concept | Description |
 |:---|:---|:---|:---|
@@ -87,7 +87,7 @@
 <!-- =========================================================================================
                                      EXPERIMENT 5
      ========================================================================================= -->
-## λ Experiment 5: Functional Python (2 Programs)
+## Experiment 5: Functional Python (2 Programs)
 
 | # | Program | Concepts | Description |
 |:---|:---|:---|:---|
@@ -99,7 +99,7 @@
 <!-- =========================================================================================
                                      EXPERIMENT 6
      ========================================================================================= -->
-## 🖥️ Experiment 6: GUI Programming (3 Programs)
+## Experiment 6: GUI Programming (3 Programs)
 
 | # | Program | Complexity | Focus Area |
 |:---|:---|:---|:---|
@@ -112,7 +112,7 @@
 <!-- =========================================================================================
                                      EXPERIMENT 7
      ========================================================================================= -->
-## 🗄️ Experiment 7: Database Connectivity (1 Program)
+## Experiment 7: Database Connectivity (1 Program)
 
 | # | Program | Technology | Description |
 |:---|:---|:---|:---|
@@ -123,7 +123,7 @@
 <!-- =========================================================================================
                                      HOW TO USE
      ========================================================================================= -->
-## 🚀 How to Use
+## How to Use
 
 ### Requirements
 
@@ -168,11 +168,11 @@ This section documents the structured learning schedule followed during the acad
 <!-- =========================================================================================
                                      LAB MANUAL
      ========================================================================================= -->
-## 📖 Lab Manual
+## Lab Manual
 
-| Resource | Description |
-|:---|:---|
-| [PRACTICAL LAB.pdf](PRACTICAL%20LAB.pdf) | Complete laboratory manual with theory and analysis |
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [PRACTICAL LAB.pdf](PRACTICAL%20LAB.pdf) | Complete laboratory manual with theory and analysis |
 
 ---
 
@@ -182,9 +182,9 @@ This section documents the structured learning schedule followed during the acad
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[⬆ Back to Top](#open-source-tech-laboratory)**
+  **[↑ Back to Top](#open-source-tech-laboratory)**
 
-  **[🐍 Experiment 1](#-experiment-1-python-basics-3-programs)** &nbsp;·&nbsp; **[🛠️ Experiment 2](#-experiment-2-control-flow-3-programs)** &nbsp;·&nbsp; **[🧱 Experiment 3](#-experiment-3-intro-to-oop-2-programs)** &nbsp;·&nbsp; **[🏛️ Experiment 4](#-experiment-4-advanced-oop-1-program)** &nbsp;·&nbsp; **[λ Experiment 5](#-experiment-5-functional-python-2-programs)** &nbsp;·&nbsp; **[🖥️ Experiment 6](#-experiment-6-gui-programming-3-programs)** &nbsp;·&nbsp; **[🗄️ Experiment 7](#-experiment-7-database-connectivity-1-program)** &nbsp;·&nbsp; **[🚀 How to Use](#-how-to-use)** &nbsp;·&nbsp; **[📖 Learning Path](#-learning-path)**
+  **[Experiment 1](#experiment-1-python-basics-3-programs)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-control-flow-3-programs)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-intro-to-oop-2-programs)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-advanced-oop-1-program)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-functional-python-2-programs)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-gui-programming-3-programs)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-database-connectivity-1-program)** &nbsp;·&nbsp; **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)**
 
   <br>
 
