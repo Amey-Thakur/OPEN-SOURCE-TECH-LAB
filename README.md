@@ -224,7 +224,7 @@ The laboratory component focuses on the practical implementation of Python conce
 
 <div align="center">
 
-  ### 🖥️ COVID19 India Web Scraper & Visualizer
+  ### [🖥️ COVID19 India Web Scraper & Visualizer](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)
 
   **A data-driven project for real-time scraping and visualization of pandemic statistics**
 
