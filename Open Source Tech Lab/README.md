@@ -85,9 +85,9 @@ This section documents the structured learning schedule followed during the acad
      ========================================================================================= -->
 ## Lab Manual
 
-| # | Resource | Description |
-|:-:|:---|:---|
-| 1 | [PRACTICAL LAB.pdf](PRACTICAL%20LAB.pdf) | Complete laboratory manual with theory and analysis |
+| # | Resource | Description | Link |
+|:-:|:---|:---|:-:|
+| 1 | Practical Lab (PDF) | Complete laboratory manual with theory and analysis | [View](PRACTICAL%20LAB.pdf) |
 
 ---
 
@@ -96,11 +96,11 @@ This section documents the structured learning schedule followed during the acad
      ========================================================================================= -->
 ## Experiment 1: Python Basics (3 Programs)
 
-| # | Program | Description |
-|:-:|:---|:---|
-| 1 | [Basic_Datatypes_And_IO.py](Experiment-1/Basic_Datatypes_And_IO.py) | Input/Output, Casting, and basic Datatypes |
-| 2 | [Data_Structures_And_String_Ops.py](Experiment-1/Data_Structures_And_String_Ops.py) | Sets, ByteArrays, and String manipulation |
-| 3 | [Advanced_Data_Structures.py](Experiment-1/Advanced_Data_Structures.py) | Mixed Lists, Tuples, Dictionaries, and Arrays |
+| # | Program | Description | Source Code |
+|:-:|:---|:---|:-:|
+| 1 | Basic_Datatypes_And_IO.py | Input/Output, Casting, and basic Datatypes | [View](Experiment-1/Basic_Datatypes_And_IO.py) |
+| 2 | Data_Structures_And_String_Ops.py | Sets, ByteArrays, and String manipulation | [View](Experiment-1/Data_Structures_And_String_Ops.py) |
+| 3 | Advanced_Data_Structures.py | Mixed Lists, Tuples, Dictionaries, and Arrays | [View](Experiment-1/Advanced_Data_Structures.py) |
 
 ---
 
@@ -109,11 +109,11 @@ This section documents the structured learning schedule followed during the acad
      ========================================================================================= -->
 ## Experiment 2: Control Flow (3 Programs)
 
-| # | Program | Algorithm | Description |
-|:-:|:---|:---|:---|
-| 1 | [If_Else_Logic.py](Experiment-2/If_Else_Logic.py) | Identity Check | Memory address and string comparison logic |
-| 2 | [Loops_Factorial_Fibonacci.py](Experiment-2/Loops_Factorial_Fibonacci.py) | For / While | Calculating factorial and Fibonacci series |
-| 3 | [Functions_Menu_Driven.py](Experiment-2/Functions_Menu_Driven.py) | Menu-driven | Modular functions for mathematical operations |
+| # | Program | Algorithm | Description | Source Code |
+|:-:|:---|:---|:---|:-:|
+| 1 | If_Else_Logic.py | Identity Check | Memory address and string comparison logic | [View](Experiment-2/If_Else_Logic.py) |
+| 2 | Loops_Factorial_Fibonacci.py | For / While | Calculating factorial and Fibonacci series | [View](Experiment-2/Loops_Factorial_Fibonacci.py) |
+| 3 | Functions_Menu_Driven.py | Menu-driven | Modular functions for mathematical operations | [View](Experiment-2/Functions_Menu_Driven.py) |
 
 ---
 
@@ -122,10 +122,10 @@ This section documents the structured learning schedule followed during the acad
      ========================================================================================= -->
 ## Experiment 3: Intro to OOP (2 Programs)
 
-| # | Program | Core Concept | Description |
-|:-:|:---|:---|:---|
-| 1 | [Classes_and_Objects.py](Experiment-3/Classes_and_Objects.py) | Instance/Class Methods | Managing student data states |
-| 2 | [Constructors_Implementation.py](Experiment-3/Constructors_Implementation.py) | `__init__` method | Initializing objects with default/custom args |
+| # | Program | Core Concept | Description | Source Code |
+|:-:|:---|:---|:---|:-:|
+| 1 | Classes_and_Objects.py | Instance/Class Methods | Managing student data states | [View](Experiment-3/Classes_and_Objects.py) |
+| 2 | Constructors_Implementation.py | `__init__` method | Initializing objects with default/custom args | [View](Experiment-3/Constructors_Implementation.py) |
 
 ---
 
@@ -134,9 +134,9 @@ This section documents the structured learning schedule followed during the acad
      ========================================================================================= -->
 ## Experiment 4: Advanced OOP (1 Program)
 
-| # | Program | Core Concept | Description |
-|:-:|:---|:---|:---|
-| 1 | [Inheritance_Implementation.py](Experiment-4/Inheritance_Implementation.py) | Single Inheritance | Extending parent classes and method overriding |
+| # | Program | Core Concept | Description | Source Code |
+|:-:|:---|:---|:---|:-:|
+| 1 | Inheritance_Implementation.py | Single Inheritance | Extending parent classes and method overriding | [View](Experiment-4/Inheritance_Implementation.py) |
 
 ---
 
@@ -145,10 +145,10 @@ This section documents the structured learning schedule followed during the acad
      ========================================================================================= -->
 ## Experiment 5: Functional Python (2 Programs)
 
-| # | Program | Concepts | Description |
-|:-:|:---|:---|:---|
-| 1 | [File_IO_Operations.py](Experiment-5/File_IO_Operations.py) | File Handling | Read, Write, and Append with Error Handling |
-| 2 | [Lambda_Filter_Map_Reduce.py](Experiment-5/Lambda_Filter_Map_Reduce.py) | Higher-order Functions | Advanced functional computations |
+| # | Program | Concepts | Description | Source Code |
+|:-:|:---|:---|:---|:-:|
+| 1 | File_IO_Operations.py | File Handling | Read, Write, and Append with Error Handling | [View](Experiment-5/File_IO_Operations.py) |
+| 2 | Lambda_Filter_Map_Reduce.py | Higher-order Functions | Advanced functional computations | [View](Experiment-5/Lambda_Filter_Map_Reduce.py) |
 
 ---
 
@@ -157,11 +157,11 @@ This section documents the structured learning schedule followed during the acad
      ========================================================================================= -->
 ## Experiment 6: GUI Programming (3 Programs)
 
-| # | Program | Complexity | Focus Area |
-|:-:|:---|:---|:---|
-| 1 | [GUI_Basic_Implementation.py](Experiment-6/GUI_Basic_Implementation.py) | Basic | Grid positioning and Entry fields |
-| 2 | [GUI_Class_Implementation.py](Experiment-6/GUI_Class_Implementation.py) | Intermediate | Class-based UI encapsulation |
-| 3 | [GUI_CRUD_Implementation.py](Experiment-6/GUI_CRUD_Implementation.py) | Advanced | Modern UI with Menus and ttk themes |
+| # | Program | Complexity | Focus Area | Source Code |
+|:-:|:---|:---|:---|:-:|
+| 1 | GUI_Basic_Implementation.py | Basic | Grid positioning and Entry fields | [View](Experiment-6/GUI_Basic_Implementation.py) |
+| 2 | GUI_Class_Implementation.py | Intermediate | Class-based UI encapsulation | [View](Experiment-6/GUI_Class_Implementation.py) |
+| 3 | GUI_CRUD_Implementation.py | Advanced | Modern UI with Menus and ttk themes | [View](Experiment-6/GUI_CRUD_Implementation.py) |
 
 ---
 
@@ -170,9 +170,9 @@ This section documents the structured learning schedule followed during the acad
      ========================================================================================= -->
 ## Experiment 7: Database Connectivity (1 Program)
 
-| # | Program | Technology | Description |
-|:-:|:---|:---|:---|
-| 1 | [Database_Connectivity.py](Experiment-7/Database_Connectivity.py) | MySQL + Python | Robust CRUD system with parameterized queries |
+| # | Program | Technology | Description | Source Code |
+|:-:|:---|:---|:---|:-:|
+| 1 | Database_Connectivity.py | MySQL + Python | Robust CRUD system with parameterized queries | [View](Experiment-7/Database_Connectivity.py) |
 
 
 ---
