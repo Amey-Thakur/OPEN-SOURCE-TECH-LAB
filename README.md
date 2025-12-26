@@ -341,7 +341,7 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
   <br>
 
-  **[Open Source Tech Laboratory](Open%20Source%20Tech%20Lab/)** &nbsp;·&nbsp; **[COVID19 Web Scraper Project](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)**
+  **[Open Source Tech Laboratory](Open%20Source%20Tech%20Lab/)** &nbsp;·&nbsp; **[🖥️ COVID19 Web Scraper Project](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)**
 
 </div>
 
