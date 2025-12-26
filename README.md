@@ -96,8 +96,8 @@ Academic assignments for comprehensive learning and practice:
 
 | # | Assignment | Marks | Description |
 |:-:|:---|:-:|:---|
-| 1 | [**Assignment 1**](Assignments/OSTL_Assignment-1.pdf) | 54/60 | Python fundamentals and data structure theory |
-| 2 | [**Assignment 2**](Assignments/OSTL_Assignment-2.pdf) | 60/60 | Advanced Python concepts, GUI, and DB theory |
+| 1 | [Assignment 1](Assignments/OSTL_Assignment-1.pdf) | 54/60 | Python fundamentals and data structure theory |
+| 2 | [Assignment 2](Assignments/OSTL_Assignment-2.pdf) | 60/60 | Advanced Python concepts, GUI, and DB theory |
 
 **Topics Covered**: Language Comparison (Python vs C/C++) · Data Structures (mutable vs immutable) · GUI Frameworks (Tkinter, event-driven programming) · Database APIs (PEP 249, MySQL connectivity)
 
@@ -246,7 +246,7 @@ The laboratory component focuses on the practical implementation of Python conce
 
 > [!IMPORTANT]
 > ### 🤝🏻 Special Acknowledgement
-> *Special thanks to [Hasan Rizvi](https://github.com/rizvihasan) for his meaningful contributions, guidance, and support that helped shape this work.*
+> *Special thanks to **[Hasan Rizvi](https://github.com/rizvihasan)** for his meaningful contributions, guidance, and support that helped shape this work.*
 
 ### Project Overview
 
@@ -321,7 +321,7 @@ This repository represents a comprehensive collection of study materials, refere
 
 ### Acknowledgments
 
-Grateful acknowledgment to [Hasan Rizvi](https://github.com/rizvihasan) for his exceptional contribution to this repository through the COVID19 Web Scraper project. Working alongside Hasan was a truly enriching experience - his technical expertise, creative problem-solving, and unwavering dedication made every challenge feel surmountable. Beyond his coding skills, it was his collaborative spirit and enthusiasm for innovation that transformed this project from an idea into a fully functional data visualization tool. His patience in debugging, willingness to explore new technologies, and commitment to delivering quality work inspired growth and learning throughout the development process. Thank you, Hasan, for being an outstanding project partner and for all the knowledge you shared along the way.
+Grateful acknowledgment to **[Hasan Rizvi](https://github.com/rizvihasan)** for his exceptional contribution to this repository through the COVID19 Web Scraper project. Working alongside Hasan was a truly enriching experience - his technical expertise, creative problem-solving, and unwavering dedication made every challenge feel surmountable. Beyond his coding skills, it was his collaborative spirit and enthusiasm for innovation that transformed this project from an idea into a fully functional data visualization tool. His patience in debugging, willingness to explore new technologies, and commitment to delivering quality work inspired growth and learning throughout the development process. Thank you, Hasan, for being an outstanding project partner and for all the knowledge you shared along the way.
 
 Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Python and Open Source technologies. Their clear teaching and continued support helped develop a strong understanding of Python-based systems.
 
@@ -335,13 +335,13 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[↑ Back to Top](#open-source-tech-lab)**
+  [↑ Back to Top](#open-source-tech-lab)
 
-  **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[Assignments](#assignments)** &nbsp;·&nbsp; **[Laboratory](#open-source-tech-laboratory)** &nbsp;·&nbsp; **[Project](#open-source-tech-lab-project)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Laboratory](#open-source-tech-laboratory) &nbsp;·&nbsp; [Project](#open-source-tech-lab-project) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
   <br>
 
-  **[Open Source Tech Laboratory](Open%20Source%20Tech%20Lab/)** &nbsp;·&nbsp; **[🖥️ COVID19 Web Scraper Project](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)**
+  🔬 **[Open Source Tech Laboratory](Open%20Source%20Tech%20Lab/)** &nbsp;·&nbsp; **[🖥️ COVID19 Web Scraper Project](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)**
 
 </div>
 
