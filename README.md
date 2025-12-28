@@ -70,7 +70,7 @@ All materials in this repository were gathered, organized, and documented by me 
 
 ### Reference Books
 
-This collection includes curated reference materials covering Python and Laboratory concepts:
+This collection includes **comprehensive reference materials** covering all major topics:
 
 | # | Resource | Focus Area |
 |:-:|:---|:---|
