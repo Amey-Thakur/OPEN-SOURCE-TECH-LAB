@@ -1,0 +1,41 @@
+# ALL REPOSITORIES
+# ----------------
+# General
+.DS_Store
+Thumbs.db
+*.swp
+*.log
+*.tmp
+*.bak
+*~
+
+# Windows
+desktop.ini
+$RECYCLE.BIN/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Git
+*.orig
