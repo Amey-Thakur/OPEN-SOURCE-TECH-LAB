@@ -1,27 +1,23 @@
-# ALL REPOSITORIES
-# ----------------
-# General
+# Open Source Tech Lab - Academic Repository
+# Specialized .gitignore for open source scripting and scholarly archiving
+
+# OS-generated files
+[Tt]humbs.db
+[Dd]esktop.ini
 .DS_Store
-Thumbs.db
-*.swp
-*.log
-*.tmp
-*.bak
-*~
+.AppleDouble
+.LSOverride
 
-# Windows
-desktop.ini
-$RECYCLE.BIN/
-
-# VS Code
+# Editor and IDE configuration
 .vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.iml
 *.code-workspace
 
-# JetBrains
-.idea/
-*.iml
-
-# Python
+# Python Build Artifacts
 __pycache__/
 *.py[cod]
 *$py.class
@@ -37,5 +33,15 @@ dist/
 # Jupyter Notebooks
 .ipynb_checkpoints/
 
-# Git
+# Perl and Shell artifacts
+# Generally we want to keep source, but ignore common temp outputs
+*.tmp
+*.log
+.cache/
+node_modules/
+
+# Academic build/output artifacts
+*.bak
+*.sav
+*.old
 *.orig
