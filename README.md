@@ -248,7 +248,7 @@ The laboratory component focuses on the practical implementation of Python conce
 
 ### Project Overview
 
-A robust web scraping and visualization tool developed in **Python 3**. This project scrapes authentic data from the **Ministry of Health and Family Welfare (MoHFW)**, India, using **BeautifulSoup**. It implements data organization using **PrettyTable** and visualizes the impact through dynamic **Bar Plots** and **Donut Charts** using **Matplotlib**. This project showcases the power of open-source libraries in handling real-world data science challenges.
+A robust web scraping and visualization tool developed in **Python 3**. This mini-project scrapes authentic data from the **Ministry of Health and Family Welfare (MoHFW)**, India, using **BeautifulSoup**. It implements data organization using **PrettyTable** and visualizes the impact through dynamic **Bar Plots** and **Donut Charts** using **Matplotlib**. This mini-project showcases the power of open-source libraries in handling real-world data science challenges.
 
 ### Resources
 
