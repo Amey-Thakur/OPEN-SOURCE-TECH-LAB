@@ -323,7 +323,7 @@ Grateful acknowledgment to **[Hasan Rizvi](https://github.com/rizvihasan)** for 
 
 Grateful acknowledgment to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Python and Open Source technologies. Their clear teaching and continued support helped develop a strong understanding of Python-based systems.
 
-Grateful acknowledgment to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience.
+Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
 ---
 
