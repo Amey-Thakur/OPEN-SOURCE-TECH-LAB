@@ -189,7 +189,7 @@ This section documents the structured learning schedule followed during the acad
 
   <br>
 
-  🏠 **[Back to Main Repository](../)**
+  🏠 **[Back to Main Repository](../)** &nbsp;·&nbsp; 🖥️ **[COVID19 Web Scraper Repository](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)**
 
 </div>
 

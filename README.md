@@ -18,7 +18,7 @@
 
   ---
 
-  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Laboratory](#open-source-tech-laboratory) &nbsp;·&nbsp; [Project](#open-source-tech-lab-project) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Laboratory](#open-source-tech-laboratory) &nbsp;·&nbsp; [Mini-Project](#open-source-tech-lab-mini-project) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -53,12 +53,12 @@ As the industry shifts towards open-source ecosystems, mastering Python and its 
 
 - **Knowledge Preservation**: To maintain organized access to comprehensive practical work beyond the classroom.
 - **Continuous Learning**: To support lifelong learning by enabling easy revisitation of Python and OSTL fundamentals.
-- **Academic Documentation**: To authentically document my learning journey through OSTL and OSTL Lab.
+- **Academic Documentation**: To authentically document my learning journey through Open Source Tech Lab.
 - **Community Contribution**: To share these resources with students and learners who may benefit from them.
 
 All materials in this repository were gathered, organized, and documented by me during my undergraduate studies (2018-2022) as part of my coursework and exam preparation.
 
-> [!NOTE]
+> [!IMPORTANT]
 > **COVID-19 Impact**: This coursework was completed during the COVID-19 pandemic in 2020. Due to the nationwide lockdown and the sudden transition to online learning, several planned laboratory sessions and collaborative note-taking activities could not be carried out as originally intended. Despite these challenges, efforts were made to adapt and preserve as much work as possible.
 
 ---
@@ -115,8 +115,6 @@ The laboratory component focuses on the practical implementation of Python conce
   [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-7-yellowgreen.svg)](Open%20Source%20Tech%20Lab/)
   [![Language](https://img.shields.io/badge/Language-Python-blueviolet.svg)](Open%20Source%20Tech%20Lab/)
   [![Lab Manual](https://img.shields.io/badge/Lab%20Manual-Available-brightgreen.svg)](Open%20Source%20Tech%20Lab/PRACTICAL%20LAB.pdf)
-
-
 
 </div>
 
@@ -218,9 +216,9 @@ The laboratory component focuses on the practical implementation of Python conce
 ---
 
 <!-- =========================================================================================
-                                     PROJECT SECTION
+                                     MINI-PROJECT SECTION
      ========================================================================================= -->
-## Open Source Tech Lab Project
+## Open Source Tech Lab Mini-Project
 
 <div align="center">
 
@@ -239,7 +237,7 @@ The laboratory component focuses on the practical implementation of Python conce
 
 <div align="center">
 
-### 👥 Authors
+### Authors
 | <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur) | <img src="https://github.com/rizvihasan.png" width="150" alt="Hasan Rizvi"><br>[**Hasan Rizvi**](https://github.com/rizvihasan) |
 | :---: | :---: |
 </div>
@@ -317,15 +315,15 @@ This repository and all academic content are made available under the **Creative
 
 This repository represents a comprehensive collection of study materials, reference books, assignments, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Open Source Tech Lab.
 
-**Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
+**Connect**: [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
 
 ### Acknowledgments
 
 Grateful acknowledgment to **[Hasan Rizvi](https://github.com/rizvihasan)** for his exceptional contribution to this repository through the COVID19 Web Scraper project. Working alongside Hasan was a truly enriching experience - his technical expertise, creative problem-solving, and unwavering dedication made every challenge feel surmountable. Beyond his coding skills, it was his collaborative spirit and enthusiasm for innovation that transformed this project from an idea into a fully functional data visualization tool. His patience in debugging, willingness to explore new technologies, and commitment to delivering quality work inspired growth and learning throughout the development process. Thank you, Hasan, for being an outstanding project partner and for all the knowledge you shared along the way.
 
-Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Python and Open Source technologies. Their clear teaching and continued support helped develop a strong understanding of Python-based systems.
+Grateful acknowledgment to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Python and Open Source technologies. Their clear teaching and continued support helped develop a strong understanding of Python-based systems.
 
-Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience.
+Grateful acknowledgment to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
 ---
 
@@ -337,7 +335,7 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
   <!-- Footer Navigation -->
   [↑ Back to Top](#open-source-tech-lab)
 
-  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Laboratory](#open-source-tech-laboratory) &nbsp;·&nbsp; [Project](#open-source-tech-lab-project) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Laboratory](#open-source-tech-laboratory) &nbsp;·&nbsp; [Mini-Project](#open-source-tech-lab-mini-project) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
   <br>
 
