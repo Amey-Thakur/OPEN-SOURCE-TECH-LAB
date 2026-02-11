@@ -56,7 +56,8 @@ As the industry shifts towards open-source ecosystems, mastering Python and its 
 - **Academic Documentation**: To authentically document my learning journey through Open Source Tech Lab.
 - **Community Contribution**: To share these resources with students and learners who may benefit from them.
 
-All materials in this repository were gathered, organized, and documented by me during my undergraduate studies (2018-2022) as part of my coursework and exam preparation.
+> [!NOTE]
+> All materials in this repository were created, compiled, and organized by me throughout my undergraduate program (2018-2022) as part of my coursework, laboratory assignments, and project implementations.
 
 > [!IMPORTANT]
 > **COVID-19 Impact**: This coursework was completed during the COVID-19 pandemic in 2020. Due to the nationwide lockdown and the sudden transition to online learning, several planned laboratory sessions and collaborative note-taking activities could not be carried out as originally intended. Despite these challenges, efforts were made to adapt and preserve as much work as possible.
