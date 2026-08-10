@@ -10,10 +10,10 @@
   ### CSL405 · Semester IV · Computer Engineering
 
   <!-- Badges -->
-  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
-  [![Programs](https://img.shields.io/badge/Programs-15-yellowgreen.svg)](#laboratory-experiments)
-  [![Language](https://img.shields.io/badge/Language-Python-blueviolet.svg)](./)
-  [![Lab Manual](https://img.shields.io/badge/Lab%20Manual-Available-brightgreen.svg)](PRACTICAL%20LAB.pdf)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-0969DA.svg)](https://github.com/Amey-Thakur)
+  [![Programs](https://img.shields.io/badge/Programs-15-795548.svg)](#laboratory-experiments)
+  [![Language](https://img.shields.io/badge/Language-Python-8250DF.svg)](./)
+  [![Lab Manual](https://img.shields.io/badge/Lab%20Manual-Available-39FF14.svg)](PRACTICAL%20LAB.pdf)
 
   <!-- Short Description -->
   **A comprehensive collection of 15 programs across 7 experiments covering the core implementation of Python-based Open Source technologies, including OOP, GUI, and Database systems.**

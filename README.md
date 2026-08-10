@@ -9,10 +9,10 @@
 
   ### CSL405 · Semester IV · Computer Engineering
 
-  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
-  [![University](https://img.shields.io/badge/University-Mumbai-%23A6192E.svg)](https://mu.ac.in/)
-  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
-  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-6E7681.svg)](LICENSE)
+  [![University](https://img.shields.io/badge/University-Mumbai-A6192E.svg)](https://mu.ac.in/)
+  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-E8710A.svg)](https://ternaengg.ac.in/)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-0969DA.svg)](https://github.com/Amey-Thakur)
 
   **A comprehensive academic resource for Open Source Tech Lab (OSTL), focusing on Python programming, graphical user interfaces, database connectivity, and practical open-source methodologies.**
 
@@ -113,9 +113,9 @@ The laboratory component focuses on the practical implementation of Python conce
 
 <div align="center">
 
-  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-7-yellowgreen.svg)](Open%20Source%20Tech%20Lab/)
-  [![Language](https://img.shields.io/badge/Language-Python-blueviolet.svg)](Open%20Source%20Tech%20Lab/)
-  [![Lab Manual](https://img.shields.io/badge/Lab%20Manual-Available-brightgreen.svg)](Open%20Source%20Tech%20Lab/PRACTICAL%20LAB.pdf)
+  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-7-795548.svg)](Open%20Source%20Tech%20Lab/)
+  [![Language](https://img.shields.io/badge/Language-Python-8250DF.svg)](Open%20Source%20Tech%20Lab/)
+  [![Lab Manual](https://img.shields.io/badge/Lab%20Manual-Available-39FF14.svg)](Open%20Source%20Tech%20Lab/PRACTICAL%20LAB.pdf)
 
 </div>
 
@@ -227,12 +227,12 @@ The laboratory component focuses on the practical implementation of Python conce
 
   **A data-driven project for real-time scraping and visualization of pandemic statistics**
 
-  [![Project](https://img.shields.io/badge/Project-COVID19%20Web%20Scraper-purple.svg)](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)
-  [![Platform](https://img.shields.io/badge/Platform-Python-blueviolet.svg)](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)
-  [![Platform](https://img.shields.io/badge/Platform-Google%20Colab-orange.svg)](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)
-  [![Technology](https://img.shields.io/badge/Technology-BeautifulSoup-blue.svg)](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)
-  [![Technology](https://img.shields.io/badge/Technology-Matplotlib-green.svg)](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)
-  [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)
+  [![Project](https://img.shields.io/badge/Project-COVID19%20Web%20Scraper-BF3989.svg)](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)
+  [![Platform](https://img.shields.io/badge/Platform-Python-00838F.svg)](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)
+  [![Platform](https://img.shields.io/badge/Platform-Google%20Colab-00838F.svg)](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)
+  [![Technology](https://img.shields.io/badge/Technology-BeautifulSoup-8250DF.svg)](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)
+  [![Technology](https://img.shields.io/badge/Technology-Matplotlib-8250DF.svg)](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)
+  [![Status](https://img.shields.io/badge/Status-Completed-2EA043.svg)](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)
 
 </div>
 
