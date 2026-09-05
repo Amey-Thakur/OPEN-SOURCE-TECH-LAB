@@ -36,7 +36,6 @@
     "applicationCategory": "Academic Course Archive",
     "educationalLevel": "Undergraduate, Second Year, Semester IV",
     "keywords": [
-        "Beautifulsoup",
         "Computer Engineering",
         "Computer Science",
         "Database Connectivity",
@@ -72,6 +71,7 @@
         "amey-thakur",
         "ameyarc",
         "Mega Satish",
-        "megasatish"
+        "megasatish",
+        "BeautifulSoup"
     ]
 }
