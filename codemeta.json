@@ -1,0 +1,77 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "additionalType": "https://schema.org/LearningResource",
+    "name": "OPEN-SOURCE-TECH-LAB",
+    "description": "CSL405: Open Source Technology Lab [OSTL] | SE Semester IV | Computer Engineering",
+    "identifier": "OPEN-SOURCE-TECH-LAB",
+    "license": "https://spdx.org/licenses/CC-BY-4.0.html",
+    "author": [
+        {
+            "@type": "Person",
+            "givenName": "Amey",
+            "familyName": "Thakur",
+            "id": "https://orcid.org/0000-0001-5644-1575",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Terna Engineering College"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Mega",
+            "familyName": "Satish",
+            "id": "https://orcid.org/0000-0002-1844-9557",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Terna Engineering College"
+            }
+        }
+    ],
+    "dateCreated": "2022-02-07",
+    "dateReleased": "2020-08-12",
+    "codeRepository": "https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB",
+    "isPartOf": "https://github.com/Amey-Thakur/COMPUTER-ENGINEERING",
+    "developmentStatus": "complete",
+    "applicationCategory": "Academic Course Archive",
+    "educationalLevel": "Undergraduate, Second Year, Semester IV",
+    "keywords": [
+        "Beautifulsoup",
+        "Computer Engineering",
+        "Computer Science",
+        "Database Connectivity",
+        "Engineering",
+        "File Handling",
+        "Object Oriented Programming",
+        "Open Source Technology",
+        "Python",
+        "Python Lab",
+        "Python Programming",
+        "Python3",
+        "Tkinter",
+        "University Of Mumbai",
+        "Web Scraping",
+        "CSL405",
+        "OSTL",
+        "Open Source Technology Lab",
+        "University of Mumbai",
+        "Mumbai University",
+        "Terna Engineering College",
+        "Navi Mumbai",
+        "India",
+        "B.E. Computer Engineering",
+        "SE Semester IV",
+        "Semester IV",
+        "Assignments",
+        "Reference Books",
+        "CBCGS",
+        "SE Comps",
+        "Amey Thakur",
+        "amey",
+        "ameythakur",
+        "amey-thakur",
+        "ameyarc",
+        "Mega Satish",
+        "megasatish"
+    ]
+}

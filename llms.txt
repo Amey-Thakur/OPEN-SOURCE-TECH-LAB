@@ -1,0 +1,35 @@
+# Open Source Tech Lab
+
+> CSL405: Open Source Technology Lab [OSTL] | SE Semester IV | Computer
+> Engineering
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Co-author: Mega Satish, ORCID 0000-0002-1844-9557
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering, Second Year, Semester IV
+Course code: CSL405
+Licence: CC BY 4.0, attribution required
+Repository created: 7 February 2022
+Work dated: 12 August 2020
+
+## What is in this repository
+
+- Assignments, 2 files
+- Open Source Tech Lab, 17 files
+- Reference Books, 2 files
+- Certificate.jpg
+- SE-Comps_CBCGS_Syllabus.pdf
+
+## Subject terms
+
+beautifulsoup, computer-engineering, computer-science,
+database-connectivity, engineering, file-handling,
+object-oriented-programming, open-source-technology, python, python-lab,
+python-programming, python3, tkinter, university-of-mumbai, web-scraping
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB
+- Degree index, every subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/
